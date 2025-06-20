@@ -1,0 +1,1001 @@
+Age,Gender,Rainfall,Temperature,Humidity,Endemic_Zone,Mosquito_Density,Species,Fever,Chills,Headache,Nausea,Muscle_Aches,Fatigue,Result
+46,Female,146.7,30.9,55.9,Coastal,56.4,falciparum,yes,yes,yes,yes,yes,yes,Positive
+45,Male,191.3,30.1,69.6,Seasonal,41.7,falciparum,no,no,no,yes,yes,yes,Negative
+34,Male,227.9,26.5,43.5,Low risk,147.6,falciparum,no,yes,yes,yes,yes,yes,Positive
+33,Female,124,32.2,48.5,Lake Basin,35.8,falciparum,no,no,no,yes,no,no,Negative
+28,Female,234.3,33.7,50.4,Low risk,164.8,falciparum,no,no,yes,yes,yes,no,Positive
+29,Female,141.9,25.7,48.1,Low risk,39.9,falciparum,no,yes,no,no,no,no,Negative
+43,Female,270.4,20.6,34.4,Lake Basin,149.7,falciparum,yes,no,no,no,no,no,Negative
+34,Male,278.9,27.3,66.1,Lake Basin,36.9,falciparum,no,no,yes,yes,yes,yes,Negative
+26,Female,92.7,31.3,82.1,Lake Basin,49.4,falciparum,yes,yes,yes,no,no,yes,Negative
+31,Female,113.1,28.8,32.4,Coastal,171,falciparum,no,no,no,no,yes,yes,Negative
+44,Female,205.2,28.3,31.3,Lake Basin,94.4,falciparum,yes,yes,yes,yes,yes,no,Positive
+48,Male,144.8,28.9,73,Lake Basin,25.2,falciparum,yes,yes,yes,no,yes,no,Negative
+35,Female,263.2,24.6,87.5,Highland,92.9,falciparum,yes,yes,no,yes,yes,no,Positive
+36,Male,275.6,20.1,66.1,Lake Basin,91.3,falciparum,no,yes,yes,yes,yes,no,Positive
+25,Male,63.3,34.5,77.9,Lake Basin,194.5,falciparum,yes,no,yes,yes,no,yes,Negative
+15,Male,216.9,32.8,75.8,Coastal,184.7,falciparum,yes,no,yes,yes,no,yes,Positive
+42,Female,141.5,25.1,30.6,Highland,130.1,falciparum,no,yes,no,no,no,no,Negative
+25,Male,61,26,33.2,Coastal,185.9,falciparum,no,yes,yes,yes,yes,yes,Positive
+31,Male,290,28,83.4,Coastal,129.5,falciparum,yes,no,yes,yes,no,no,Negative
+18,Female,236.3,33.3,54.1,Lake Basin,133.5,falciparum,yes,yes,yes,no,yes,yes,Positive
+38,Female,149,32.4,86.4,Coastal,18.5,falciparum,yes,yes,yes,yes,no,yes,Positive
+37,Female,202.8,20.2,46.5,Highland,20,falciparum,yes,yes,no,no,no,no,Negative
+20,Male,286.2,28.6,33.7,Seasonal,143.1,falciparum,yes,yes,yes,yes,yes,yes,Positive
+37,Male,265.1,29.9,58.6,Lake Basin,101.6,falciparum,yes,yes,yes,no,no,no,Negative
+49,Female,239.3,29.5,63.4,Lake Basin,102.8,falciparum,no,no,no,yes,no,yes,Negative
+41,Female,147.5,23.1,74.3,Lake Basin,128.3,falciparum,yes,yes,yes,yes,no,yes,Positive
+16,Male,79.8,31.9,84.6,Seasonal,145.8,falciparum,yes,yes,yes,yes,no,yes,Positive
+46,Male,55.8,25.7,49.7,Seasonal,181.1,falciparum,no,yes,yes,yes,yes,yes,Positive
+28,Female,149.3,29.4,56.9,Low risk,186.1,falciparum,no,no,no,yes,no,yes,Negative
+40,Female,120,29.1,41.2,Coastal,35.5,falciparum,no,no,no,no,no,yes,Negative
+17,Female,202.2,31.9,61,Lake Basin,113.3,falciparum,yes,yes,yes,yes,yes,yes,Positive
+19,Female,120.3,34.9,88.4,Lake Basin,110.1,falciparum,yes,yes,no,yes,yes,yes,Positive
+28,Male,106,25.5,74.1,Seasonal,157.1,falciparum,no,no,yes,no,no,yes,Negative
+39,Female,166.5,26.4,58.8,Coastal,23.5,falciparum,yes,yes,yes,yes,no,no,Positive
+39,Female,189.3,27.6,54.5,Low risk,39.9,falciparum,yes,no,yes,yes,yes,yes,Positive
+36,Female,194.9,30.5,74.1,Seasonal,79,falciparum,no,yes,no,no,no,no,Negative
+24,Female,277.2,26.1,53.4,Highland,121.6,falciparum,yes,no,no,yes,yes,yes,Positive
+35,Male,221,31.3,62.2,Lake Basin,10.7,falciparum,yes,yes,yes,no,yes,no,Positive
+46,Female,223.6,28.8,38.4,Coastal,24.5,falciparum,yes,yes,yes,yes,no,yes,Positive
+43,Male,166.4,33.6,61.1,Lake Basin,128.7,falciparum,yes,yes,yes,yes,yes,yes,Positive
+40,Male,232.9,31.4,55,Coastal,95.4,falciparum,yes,no,no,yes,yes,yes,Positive
+47,Female,51.8,25.4,82.9,Seasonal,173.8,falciparum,no,no,no,no,no,yes,Negative
+15,Male,254.2,23.3,59,Lake Basin,190,falciparum,no,no,no,no,no,no,Negative
+47,Female,223.8,25.5,58.8,Low risk,39.7,falciparum,yes,yes,yes,yes,no,yes,Positive
+23,Male,263.7,33.1,76.1,Lake Basin,189.9,falciparum,yes,no,yes,yes,yes,yes,Positive
+21,Male,207.3,25.8,52.2,Seasonal,15.2,falciparum,yes,no,yes,no,no,yes,Positive
+43,Male,191.1,22.3,45.8,Coastal,189.6,falciparum,yes,no,yes,yes,no,yes,Positive
+31,Female,163.1,25.1,80.8,Seasonal,113,falciparum,yes,no,no,no,yes,yes,Negative
+44,Female,115.5,26.1,68.2,Highland,61.6,falciparum,yes,yes,yes,yes,yes,no,Positive
+45,Female,165.4,20.7,58.1,Coastal,27.3,falciparum,yes,yes,no,yes,yes,yes,Positive
+41,Male,52.3,23.4,76.7,Lake Basin,115.4,falciparum,yes,no,yes,yes,yes,yes,Positive
+34,Male,283.7,34,60.7,Seasonal,151.9,falciparum,no,no,no,no,no,yes,Negative
+40,Female,50.9,31.1,58.4,Lake Basin,79,falciparum,yes,yes,yes,yes,no,yes,Positive
+28,Female,143.8,34.3,74.2,Highland,48.1,falciparum,yes,yes,yes,no,yes,yes,Positive
+34,Male,241.8,34.7,48.2,Coastal,177.9,falciparum,yes,yes,yes,yes,yes,yes,Positive
+33,Male,213.3,21.5,61.4,Coastal,143.7,falciparum,yes,yes,yes,yes,yes,no,Positive
+39,Female,207.5,29.3,54.1,Coastal,173.7,falciparum,yes,yes,no,no,yes,yes,Positive
+40,Male,73.4,20,83.2,Lake Basin,95.7,falciparum,no,yes,yes,yes,yes,yes,Positive
+22,Female,150.9,21.9,76.9,Coastal,64,falciparum,yes,yes,yes,yes,no,no,Positive
+46,Male,132.9,30.9,31.2,Lake Basin,84.8,falciparum,no,yes,no,yes,yes,no,Positive
+25,Female,241.9,29,77.8,Seasonal,13.6,falciparum,yes,yes,yes,yes,yes,yes,Positive
+43,Female,174.6,28.6,61.8,Lake Basin,24.9,falciparum,no,yes,yes,yes,yes,yes,Positive
+41,Female,265.3,34.9,32.2,Lake Basin,108.9,falciparum,no,no,yes,no,no,no,Negative
+27,Female,213.4,32.1,64.8,Lake Basin,27.5,falciparum,yes,yes,yes,yes,yes,yes,Positive
+23,Female,183.4,31.4,52.2,Lake Basin,172.3,falciparum,no,no,no,yes,no,no,Negative
+41,Male,277,28.6,48.5,Lake Basin,61.4,falciparum,yes,yes,yes,yes,yes,yes,Positive
+22,Male,235.4,31.3,52.5,Seasonal,153,falciparum,no,no,yes,yes,yes,yes,Positive
+40,Female,153.2,32.8,35.2,Coastal,135,falciparum,yes,yes,no,yes,yes,no,Positive
+49,Male,144.4,23,63.5,Lake Basin,117.1,falciparum,yes,yes,yes,yes,yes,yes,Positive
+37,Male,213.9,22.6,36.5,Highland,108.4,falciparum,no,yes,no,no,yes,yes,Positive
+45,Male,194.1,32.1,45.7,Lake Basin,71,falciparum,yes,yes,no,no,yes,no,Negative
+43,Male,115.7,33.4,55.5,Coastal,129.8,falciparum,yes,yes,no,no,yes,yes,Positive
+32,Male,121.4,31.5,78.5,Lake Basin,64.1,falciparum,yes,yes,yes,no,yes,no,Positive
+34,Female,100.8,28.7,52.4,Coastal,30.1,falciparum,yes,yes,no,yes,yes,yes,Positive
+23,Female,56.1,32.3,69.2,Coastal,165.9,falciparum,yes,no,yes,yes,yes,yes,Positive
+21,Male,250.6,25.5,58.6,Lake Basin,152.9,falciparum,yes,yes,yes,yes,yes,yes,Positive
+39,Male,229.6,22.2,42.4,Seasonal,123.3,falciparum,yes,yes,yes,yes,no,yes,Positive
+40,Male,244.3,25,70.3,Seasonal,109.1,falciparum,yes,yes,yes,no,yes,yes,Positive
+37,Female,142.5,34.7,33.5,Lake Basin,138.1,falciparum,yes,yes,yes,yes,yes,yes,Positive
+19,Male,283.2,20.3,35,Lake Basin,93.6,falciparum,no,yes,no,yes,no,no,Negative
+22,Male,286.6,23.4,56.8,Highland,166.7,falciparum,yes,yes,yes,yes,no,yes,Positive
+29,Female,85.5,27.3,45.6,Lake Basin,13.6,falciparum,no,no,no,no,yes,no,Negative
+20,Female,245.9,26.3,38.8,Seasonal,189.6,falciparum,yes,no,yes,yes,yes,yes,Positive
+41,Male,227.8,23.3,84.1,Seasonal,75.5,falciparum,yes,yes,yes,yes,yes,yes,Positive
+36,Male,227.8,25.4,36.6,Lake Basin,72.2,falciparum,yes,yes,no,yes,yes,yes,Positive
+44,Female,116.7,30.6,45.4,Seasonal,173.7,falciparum,yes,yes,yes,yes,yes,yes,Positive
+16,Male,288.3,29.1,80.4,Coastal,138,falciparum,no,no,yes,no,no,no,Negative
+23,Female,144.6,33.2,47.5,Coastal,82,falciparum,yes,yes,yes,no,yes,yes,Positive
+37,Female,73.1,27.5,81.1,Coastal,22.2,falciparum,yes,yes,no,yes,yes,yes,Positive
+44,Male,141.8,31,62.3,Seasonal,94,falciparum,yes,no,yes,no,no,yes,Positive
+20,Female,183.8,31.4,54.4,Coastal,10.2,falciparum,no,no,no,yes,no,yes,Negative
+24,Male,70.2,24,32.9,Coastal,41.1,falciparum,no,yes,yes,yes,yes,yes,Positive
+21,Male,210.9,21.3,88,Lake Basin,103.1,falciparum,yes,no,yes,yes,yes,yes,Positive
+49,Female,237,27.6,55.2,Seasonal,155,falciparum,yes,yes,yes,yes,yes,no,Positive
+39,Female,181.5,34.9,30.6,Highland,182.6,falciparum,yes,yes,yes,yes,yes,yes,Positive
+44,Male,131.2,20.2,37.3,Coastal,66.8,falciparum,yes,yes,yes,yes,yes,yes,Positive
+31,Female,256.8,20.2,41.1,Lake Basin,24.8,falciparum,no,yes,no,yes,no,yes,Positive
+40,Female,151.3,21.7,37.1,Coastal,26.2,falciparum,yes,yes,yes,yes,yes,yes,Positive
+34,Male,203.8,20.9,47.3,Coastal,149,falciparum,no,yes,yes,yes,yes,no,Positive
+35,Female,113.2,24.9,47.9,Lake Basin,168.8,falciparum,yes,yes,yes,yes,no,yes,Positive
+29,Female,119,26.4,86.9,Seasonal,89.2,falciparum,yes,yes,yes,yes,yes,yes,Positive
+39,Male,215.8,34.6,33.5,Seasonal,147,falciparum,no,yes,yes,yes,yes,no,Positive
+37,Male,250.4,28.1,44.4,Coastal,121.1,falciparum,yes,yes,yes,yes,yes,no,Positive
+20,Female,197.5,25.6,75.7,Coastal,131.2,falciparum,yes,yes,yes,yes,no,yes,Positive
+17,Male,163.4,23,64.2,Coastal,111.7,falciparum,yes,yes,yes,yes,yes,yes,Positive
+31,Female,84.5,33.2,60.1,Coastal,165,falciparum,no,no,yes,yes,yes,yes,Positive
+22,Male,190.1,22,87.3,Seasonal,90.3,falciparum,yes,yes,yes,yes,yes,yes,Positive
+40,Female,240.7,27.3,46.7,Highland,82.1,falciparum,no,yes,no,yes,yes,no,Positive
+27,Male,288,25.1,47.5,Low risk,60.7,falciparum,yes,yes,yes,yes,yes,yes,Positive
+29,Female,233.1,20.2,57.8,Lake Basin,172.5,falciparum,no,yes,yes,yes,yes,yes,Positive
+47,Female,273,25.1,56,Seasonal,190.6,falciparum,yes,yes,yes,no,yes,yes,Positive
+24,Male,251.9,27.6,74.1,Lake Basin,175.8,falciparum,yes,no,yes,yes,yes,yes,Positive
+21,Female,265.8,32.3,33.2,Highland,135.4,falciparum,yes,yes,yes,yes,yes,yes,Positive
+40,Female,186.2,20.9,48.3,Coastal,116.7,falciparum,yes,yes,yes,yes,yes,yes,Positive
+29,Male,218.1,27.2,39,Lake Basin,158.1,falciparum,yes,yes,no,yes,yes,yes,Positive
+26,Female,191.7,25.8,85,Highland,136.8,vivax,no,no,yes,yes,yes,yes,Positive
+23,Male,261.5,29.1,55,Lake Basin,54.1,vivax,yes,no,no,no,no,no,Negative
+21,Female,127.8,20.4,31.8,Coastal,41.1,vivax,yes,no,no,no,no,no,Negative
+46,Female,199.5,28.1,39.4,Coastal,105.1,vivax,no,no,yes,yes,yes,no,Positive
+29,Female,171.6,22.2,53.5,Coastal,88.2,vivax,yes,no,no,no,no,no,Negative
+42,Female,177.8,26.8,69.8,Lake Basin,56.9,vivax,no,no,yes,no,yes,no,Negative
+29,Male,228.9,22.2,82.2,Coastal,124.3,vivax,yes,yes,no,no,no,yes,Negative
+44,Male,238.1,27.2,44.8,Highland,149.7,vivax,yes,no,no,no,no,no,Negative
+45,Male,201.6,32.6,46.5,Lake Basin,139.5,vivax,yes,yes,yes,yes,yes,no,Positive
+26,Male,285.6,32.5,89.4,Lake Basin,122.3,vivax,no,no,yes,no,no,no,Negative
+41,Female,84.7,34.1,48.9,Lake Basin,77.7,vivax,yes,yes,yes,yes,yes,yes,Positive
+32,Female,255.5,20.8,42.7,Lake Basin,186.9,vivax,no,yes,no,no,no,no,Negative
+22,Male,110.5,32,56.4,Seasonal,28.1,vivax,no,no,no,no,no,no,Negative
+39,Male,285.3,34.2,58.6,Lake Basin,192.6,vivax,yes,no,no,no,yes,no,Negative
+28,Male,79.4,23.4,68.2,Lake Basin,134.3,vivax,yes,yes,yes,yes,yes,no,Positive
+29,Male,142,32.7,71.4,Coastal,165.5,vivax,no,yes,yes,no,no,yes,Negative
+40,Female,217.5,26.8,72.1,Seasonal,193.7,vivax,no,no,yes,no,no,yes,Negative
+18,Female,154.3,21.9,88.4,Seasonal,167.9,vivax,yes,no,yes,no,yes,no,Negative
+23,Male,262,23.8,83.4,Lake Basin,153.5,vivax,yes,no,no,no,no,yes,Negative
+39,Male,166.2,22.3,82.2,Coastal,104.6,vivax,no,yes,no,no,no,yes,Negative
+22,Female,50.3,25.6,33,Lake Basin,162.6,vivax,yes,yes,no,no,no,no,Negative
+37,Female,241.5,33.8,88.9,Lake Basin,174.7,vivax,no,yes,no,no,no,no,Negative
+21,Male,294.4,20.7,57.2,Highland,166.8,vivax,yes,yes,yes,yes,yes,no,Positive
+35,Female,192.3,33.5,85.3,Lake Basin,160.6,vivax,yes,no,yes,no,no,no,Negative
+37,Female,261.1,20.4,36.9,Lake Basin,108.4,vivax,no,yes,yes,yes,no,no,Negative
+43,Male,167.3,32.1,75.4,Lake Basin,63.9,vivax,yes,yes,yes,yes,yes,yes,Positive
+21,Male,51.7,32.6,34.5,Lake Basin,20.9,vivax,no,no,no,yes,no,no,Negative
+46,Female,267,22.2,50.1,Lake Basin,153.4,vivax,no,yes,no,no,no,no,Negative
+39,Male,114,30.8,68.1,Lake Basin,140.7,vivax,no,no,no,no,no,no,Negative
+41,Female,216,20.3,68.7,Lake Basin,18.3,vivax,yes,yes,yes,yes,yes,yes,Positive
+35,Male,141.6,32.5,60.1,Low risk,21.5,vivax,yes,yes,no,yes,yes,yes,Positive
+25,Female,223.6,22.5,61.4,Lake Basin,102.6,vivax,yes,yes,yes,yes,no,yes,Positive
+32,Male,202,25.5,48.7,Low risk,159.8,vivax,no,no,no,yes,yes,yes,Negative
+41,Female,66.2,23.3,80.4,Highland,63,vivax,no,no,yes,no,no,no,Negative
+17,Female,215.9,20.9,33.4,Coastal,36.7,vivax,yes,yes,yes,yes,yes,yes,Positive
+31,Male,97.3,30.4,79,Lake Basin,103.8,vivax,no,no,no,no,no,no,Negative
+40,Male,212.6,20.4,49.3,Low risk,15.1,vivax,yes,no,no,no,no,no,Negative
+34,Male,232.1,23.4,52.8,Seasonal,122.6,vivax,no,no,yes,no,no,no,Negative
+23,Male,263.2,31.1,72.2,Coastal,64.4,vivax,yes,yes,no,yes,no,no,Negative
+44,Female,66,20.2,87.9,Coastal,110.8,vivax,yes,no,no,no,no,no,Negative
+24,Female,226,29.5,77.6,Lake Basin,73.7,vivax,yes,yes,no,no,yes,no,Negative
+16,Male,241.8,24.1,88.7,Lake Basin,139.2,vivax,yes,no,no,yes,no,no,Negative
+29,Female,236.8,32.3,59.1,Lake Basin,31.4,vivax,no,no,yes,no,no,no,Negative
+47,Male,285.1,22.3,37.5,Coastal,61.4,vivax,no,no,no,no,no,no,Negative
+39,Female,74.5,24,38.5,Lake Basin,12.7,vivax,no,no,no,no,yes,no,Negative
+28,Male,147.5,29,66.9,Coastal,193.7,vivax,yes,yes,yes,yes,no,yes,Positive
+22,Male,266.5,26.5,89.6,Low risk,74.3,vivax,yes,yes,no,no,yes,no,Negative
+25,Female,288.6,24.9,61.5,Coastal,67.8,vivax,no,yes,no,yes,no,no,Negative
+30,Female,289.1,32.3,55,Coastal,76.4,vivax,yes,yes,yes,yes,yes,yes,Positive
+31,Female,228.8,29.4,30.6,Coastal,25.1,vivax,no,no,no,no,yes,no,Negative
+27,Male,230.4,21.9,52.4,Lake Basin,189.4,vivax,yes,yes,no,no,yes,no,Negative
+24,Male,148.4,32.5,56.1,Coastal,119.6,vivax,no,yes,no,yes,no,no,Negative
+34,Female,178.8,33.9,60.8,Coastal,170.2,vivax,no,no,yes,no,no,no,Negative
+32,Male,175.1,34.4,54.6,Seasonal,93.5,vivax,no,no,no,no,no,no,Negative
+49,Male,233.5,20.7,30.9,Coastal,123.8,vivax,no,yes,no,no,no,yes,Negative
+39,Male,286.3,22.3,87.3,Coastal,22.8,vivax,yes,no,yes,no,no,no,Negative
+21,Female,117.8,23.3,74.6,Lake Basin,49.8,vivax,no,no,yes,yes,yes,yes,Positive
+41,Female,107.2,29.4,32.7,Lake Basin,182,vivax,yes,no,no,no,yes,no,Negative
+28,Male,204.6,33.5,53.8,Seasonal,119.8,vivax,no,no,no,no,yes,no,Negative
+27,Male,53.8,24.1,74.8,Coastal,12.5,vivax,no,no,yes,yes,yes,yes,Positive
+37,Female,285.7,33.5,45,Lake Basin,148,vivax,no,yes,yes,no,no,no,Positive
+16,Male,207.8,31.7,73.6,Lake Basin,118.1,vivax,no,no,yes,no,yes,yes,Negative
+44,Female,206.5,28.8,55.2,Lake Basin,138.2,vivax,no,no,no,yes,no,yes,Negative
+49,Male,276.7,33.1,46,Seasonal,158.6,vivax,no,yes,no,no,no,yes,Negative
+34,Female,295.5,21.8,77.4,Lake Basin,128.6,vivax,no,yes,yes,yes,no,yes,Negative
+40,Male,148.7,21.8,51.7,Highland,35.5,vivax,no,yes,yes,no,no,yes,Negative
+44,Female,192.6,25.1,70.7,Coastal,158,vivax,no,yes,no,yes,yes,yes,Negative
+25,Male,81.6,28.6,77.7,Coastal,38.3,vivax,no,no,no,no,no,no,Negative
+43,Male,176.1,31.4,43.7,Coastal,177.4,vivax,no,no,no,no,yes,no,Negative
+39,Female,87.7,24.4,43.5,Seasonal,29.4,vivax,no,no,yes,no,no,no,Negative
+31,Male,119.5,29.7,47.6,Lake Basin,40.8,vivax,no,no,no,no,yes,no,Negative
+32,Male,80,31.1,70.2,Lake Basin,16.9,vivax,yes,no,no,no,no,no,Negative
+38,Male,99.9,33.7,61.6,Highland,150.2,vivax,no,yes,yes,yes,yes,yes,Positive
+47,Female,218.6,34.8,62,Lake Basin,114.4,vivax,no,yes,yes,no,no,yes,Negative
+39,Female,76.6,30,56.8,Seasonal,141.2,vivax,yes,no,no,no,yes,yes,Negative
+44,Male,194.8,30.1,44,Lake Basin,11.9,vivax,yes,no,no,no,no,no,Negative
+23,Male,177.6,32.4,60,Seasonal,33.2,vivax,no,yes,no,no,yes,no,Negative
+37,Female,274.9,26.1,72.4,Lake Basin,148.9,vivax,yes,yes,no,yes,yes,yes,Positive
+23,Male,276.4,25.3,50.8,Highland,168.4,vivax,yes,no,yes,no,no,no,Negative
+36,Female,265.5,30.6,85.6,Highland,25.8,vivax,no,no,no,no,no,yes,Negative
+27,Female,253,29.8,55.7,Coastal,162.8,vivax,no,no,no,no,yes,no,Negative
+29,Male,68.4,26.6,37.2,Coastal,170.6,vivax,yes,no,yes,yes,yes,yes,Positive
+28,Female,160.1,26.3,47.4,Lake Basin,154.4,vivax,no,no,no,no,no,no,Negative
+39,Female,110.9,20.6,39,Coastal,132.7,vivax,no,yes,yes,yes,no,yes,Positive
+24,Male,222,30.9,41.6,Coastal,43.9,vivax,no,no,no,yes,no,no,Negative
+24,Female,51.1,28.7,54.2,Lake Basin,138.5,vivax,no,no,no,no,no,yes,Negative
+26,Male,185.6,20.7,49.4,Coastal,29.6,vivax,yes,yes,yes,no,no,no,Negative
+40,Female,98.2,21.1,60.3,Seasonal,148.5,vivax,no,yes,yes,yes,no,yes,Positive
+22,Male,57.5,24.3,56.6,Coastal,150.9,vivax,yes,no,no,no,no,no,Negative
+46,Female,165,31.4,36.4,Lake Basin,10.2,vivax,yes,yes,yes,yes,yes,yes,Positive
+36,Female,284.6,21.6,39.6,Lake Basin,29.2,vivax,yes,no,no,no,no,no,Negative
+37,Male,201.9,31.7,49.2,Seasonal,121.1,vivax,no,yes,no,no,no,yes,Negative
+18,Female,82.7,28.1,86.3,Lake Basin,52.8,vivax,yes,yes,yes,yes,yes,yes,Positive
+16,Female,171.4,23.8,39.9,Lake Basin,151.7,vivax,no,yes,yes,no,no,yes,Negative
+34,Female,76.3,25.4,47.2,Coastal,158.4,vivax,no,yes,yes,no,yes,no,Negative
+19,Female,266.2,30.1,66.7,Lake Basin,177.3,vivax,no,no,no,no,yes,no,Negative
+27,Male,261.8,34.7,36.8,Seasonal,33.2,vivax,yes,no,no,no,yes,no,Negative
+40,Male,55.1,33.1,50.6,Lake Basin,131.8,vivax,yes,yes,no,yes,no,yes,Negative
+23,Female,296.9,28.7,60.3,Low risk,43,vivax,no,no,no,yes,yes,no,Negative
+22,Female,54,32.8,54.3,Lake Basin,60.1,vivax,yes,yes,yes,yes,yes,no,Negative
+36,Female,159.3,34.4,66.6,Seasonal,154.9,vivax,no,no,yes,no,no,no,Negative
+43,Male,158.8,30.4,74.8,Coastal,117.4,vivax,yes,yes,yes,yes,yes,yes,Positive
+34,Female,234,21.9,41,Seasonal,160,vivax,no,no,no,no,no,no,Negative
+32,Female,99.5,33.3,37.9,Lake Basin,170.2,vivax,yes,no,yes,no,no,no,Negative
+21,Male,282.8,21.7,69,Lake Basin,42.7,vivax,yes,yes,yes,yes,yes,yes,Positive
+46,Female,112.9,32,45.8,Coastal,139.3,vivax,no,no,yes,no,no,no,Negative
+43,Male,252.5,26.5,42.2,Coastal,95.3,vivax,no,yes,no,yes,no,yes,Negative
+40,Female,83.9,22.3,54.6,Highland,113.9,vivax,no,yes,no,no,no,yes,Negative
+31,Female,244.2,30.1,69.8,Lake Basin,85.3,vivax,yes,no,no,no,no,no,Negative
+43,Male,140.7,34.4,66.7,Seasonal,178.6,vivax,no,no,yes,yes,no,yes,Positive
+21,Male,192,23.3,77.8,Coastal,124.4,vivax,no,yes,yes,yes,yes,yes,Positive
+32,Male,108.7,30.9,37.5,Coastal,34,vivax,no,no,no,yes,no,no,Negative
+29,Male,121.2,27,51.2,Lake Basin,70.9,vivax,yes,no,yes,no,no,no,Negative
+45,Male,222,33.6,65.7,Lake Basin,69.8,vivax,no,no,yes,no,yes,no,Negative
+40,Male,103.5,25.7,69.8,Lake Basin,119.7,vivax,no,no,no,no,yes,no,Negative
+17,Female,255.9,32,46.9,Coastal,182.9,vivax,no,no,no,no,no,no,Negative
+47,Male,220,26.3,30.5,Highland,139.8,vivax,no,no,yes,no,yes,yes,Negative
+18,Male,123,27.2,82.6,Lake Basin,73.8,vivax,no,yes,yes,yes,no,yes,Negative
+29,Male,85.1,29.1,44.9,Lake Basin,85.1,vivax,yes,yes,no,yes,no,no,Negative
+30,Female,133.2,34.2,50.4,Coastal,100.6,vivax,yes,yes,no,no,yes,no,Positive
+16,Male,78.3,27.4,84.6,Lake Basin,14.8,vivax,yes,no,no,no,no,no,Negative
+21,Male,253.5,27.2,39.2,Lake Basin,72.2,vivax,yes,yes,yes,yes,yes,yes,Positive
+46,Male,85.4,33.6,43.2,Coastal,74,vivax,yes,yes,yes,yes,yes,yes,Positive
+33,Female,87.1,25,30.8,Seasonal,30.7,vivax,yes,no,no,yes,yes,yes,Positive
+37,Male,125.1,28.6,65.2,Low risk,114.6,vivax,yes,no,no,no,no,no,Negative
+21,Female,106.7,23.2,46,Lake Basin,142.1,vivax,no,no,no,no,yes,yes,Negative
+34,Female,85.3,28.1,86.7,Coastal,64.4,vivax,no,yes,no,no,no,no,Negative
+22,Male,92.6,20.1,48.5,Lake Basin,34.3,vivax,yes,yes,yes,yes,yes,yes,Positive
+39,Male,283.5,32.4,44.8,Highland,192.4,vivax,yes,yes,yes,yes,yes,yes,Positive
+24,Male,262.3,28.5,72.3,Coastal,60.6,vivax,no,yes,yes,yes,yes,no,Positive
+17,Male,144.4,29,82.4,Lake Basin,110.7,vivax,yes,yes,no,no,no,yes,Negative
+33,Male,174.2,24.4,34.6,Lake Basin,43.7,vivax,no,no,no,no,yes,no,Negative
+27,Male,226,33,48.5,Highland,153,vivax,no,no,yes,no,yes,yes,Negative
+45,Female,158.7,20.1,82,Lake Basin,64.3,vivax,no,yes,no,yes,yes,no,Negative
+40,Male,155,32.5,62.2,Lake Basin,196.4,vivax,yes,yes,yes,yes,yes,yes,Positive
+21,Male,248.7,25,86.7,Lake Basin,158.8,vivax,no,yes,no,yes,no,yes,Negative
+19,Male,124.3,33.7,65.7,Seasonal,53.1,vivax,no,no,no,yes,yes,no,Negative
+44,Male,233.7,33.3,47.8,Lake Basin,84.2,vivax,no,no,yes,no,no,yes,Negative
+37,Female,201.8,30.9,71.4,Lake Basin,157.9,vivax,no,no,no,no,no,no,Negative
+25,Female,275,28.7,62.3,Lake Basin,72.1,vivax,yes,no,yes,no,no,no,Negative
+25,Male,280.4,25,50.3,Lake Basin,47.9,vivax,yes,no,yes,no,no,yes,Negative
+47,Male,216.4,20.4,62.4,Lake Basin,128.9,vivax,no,yes,no,no,no,no,Negative
+38,Male,257.6,21,71.4,Low risk,85.8,vivax,yes,no,no,yes,no,yes,Negative
+48,Male,160.1,20.1,33.2,Highland,182.1,vivax,yes,no,no,yes,no,yes,Positive
+45,Female,298,32,71.6,Seasonal,23.1,vivax,yes,yes,no,yes,no,yes,Negative
+42,Female,147.1,33,88.6,Lake Basin,131.7,vivax,no,no,yes,no,yes,yes,Negative
+31,Female,61.3,23.9,88.4,Seasonal,197.4,vivax,no,yes,no,yes,yes,yes,Negative
+17,Male,251.9,32.6,82,Lake Basin,153.4,vivax,no,no,no,no,no,yes,Negative
+37,Female,226.7,28,65.4,Coastal,121.6,vivax,no,no,no,no,no,yes,Negative
+32,Male,260.1,31.3,45.4,Low risk,192.2,vivax,no,no,no,no,no,no,Negative
+23,Male,222.9,25.4,37,Coastal,47.1,vivax,yes,yes,yes,yes,no,yes,Positive
+24,Female,63.5,24.6,89.5,Lake Basin,38.8,vivax,no,yes,yes,no,no,no,Negative
+46,Male,110.4,22.6,88.5,Seasonal,72.6,vivax,yes,no,no,yes,no,yes,Negative
+31,Male,132,30.5,52.9,Seasonal,65.7,vivax,yes,no,no,no,no,yes,Negative
+42,Male,223.1,30.4,71.8,Lake Basin,144.9,vivax,no,no,yes,no,no,yes,Negative
+42,Male,286.4,27,31.6,Lake Basin,34.1,vivax,no,no,yes,no,no,yes,Negative
+30,Female,54.5,28.8,79.7,Lake Basin,101.6,vivax,no,no,no,no,yes,no,Negative
+24,Female,196,21.8,45.5,Coastal,50.5,vivax,yes,yes,no,yes,yes,yes,Positive
+41,Female,255.7,27.8,60.2,Seasonal,99.8,vivax,no,no,no,no,yes,no,Negative
+37,Male,225.8,34.9,57.6,Lake Basin,199.6,vivax,yes,no,yes,yes,yes,yes,Positive
+49,Male,80.4,35,58.2,Lake Basin,62.7,vivax,no,no,no,no,no,no,Negative
+46,Female,210.7,20.5,59.4,Seasonal,175.4,vivax,yes,no,yes,no,yes,no,Negative
+49,Male,278.9,24.3,48.4,Low risk,86.3,vivax,no,yes,yes,yes,yes,yes,Negative
+44,Male,230.6,31.5,88.3,Lake Basin,156.7,falciparum,no,no,no,no,yes,no,Negative
+40,Female,145.8,20.5,41.6,Lake Basin,72.3,falciparum,yes,yes,yes,yes,yes,yes,Positive
+24,Male,250.8,31,49.7,Lake Basin,46.1,falciparum,no,no,no,no,no,yes,Negative
+33,Male,192.8,24.2,46.3,Lake Basin,39.5,falciparum,yes,no,yes,no,yes,no,Negative
+32,Female,290.3,29.8,44.6,Seasonal,99.8,falciparum,yes,no,no,no,yes,no,Negative
+38,Male,260.2,22.5,39.2,Coastal,89.2,falciparum,yes,no,no,yes,yes,no,Negative
+16,Male,161.2,28.7,54.4,Coastal,42.7,falciparum,no,no,no,no,no,no,Negative
+48,Female,218.6,26.6,74.2,Highland,42.1,falciparum,yes,yes,yes,yes,yes,yes,Positive
+23,Female,188.6,29.5,60.7,Lake Basin,68.8,falciparum,no,yes,no,no,no,no,Negative
+26,Male,127.2,21.5,65.4,Coastal,32.7,falciparum,no,yes,yes,yes,yes,yes,Positive
+41,Female,238.5,21.5,79.6,Seasonal,81.4,falciparum,no,yes,yes,yes,yes,yes,Positive
+33,Male,235.9,21.2,32,Highland,52.1,falciparum,no,yes,no,yes,no,no,Negative
+17,Male,219.4,31.8,57,Coastal,103.5,falciparum,yes,yes,no,no,no,yes,Negative
+42,Female,196.5,23.7,77.6,Highland,115.9,falciparum,no,no,yes,yes,yes,no,Negative
+26,Male,247.5,26.9,85.7,Coastal,58.9,falciparum,yes,yes,yes,no,yes,yes,Positive
+35,Male,190.5,34.3,45.9,Lake Basin,183.3,falciparum,yes,yes,no,yes,no,no,Negative
+26,Male,265.8,32.1,55,Lake Basin,14.6,falciparum,no,no,no,no,no,yes,Negative
+28,Male,279.8,26.4,89.5,Coastal,131.1,falciparum,no,yes,no,yes,no,no,Negative
+33,Male,276.2,22.9,53.5,Coastal,62.7,falciparum,yes,no,no,no,no,no,Negative
+46,Male,73.4,29.1,37.9,Lake Basin,62,falciparum,yes,yes,no,no,yes,no,Negative
+22,Male,150.3,34,30.9,Coastal,131.2,falciparum,yes,no,yes,yes,yes,yes,Positive
+40,Male,262.3,30.3,41,Low risk,26.1,falciparum,no,no,no,no,no,no,Negative
+21,Male,171.7,26.3,72.3,Lake Basin,79.8,falciparum,no,no,no,yes,yes,yes,Negative
+31,Male,65.9,26.2,39.5,Coastal,82.8,falciparum,no,yes,yes,no,no,yes,Negative
+42,Male,223.2,29.3,33.9,Lake Basin,41.7,falciparum,yes,no,no,no,no,no,Negative
+44,Female,163.8,22.4,31.1,Lake Basin,15.4,falciparum,no,no,no,no,no,no,Negative
+21,Female,66.8,29.5,70,Coastal,168.2,falciparum,no,no,no,no,no,yes,Negative
+32,Female,155.2,34.7,68.1,Coastal,43.6,falciparum,no,no,yes,no,yes,yes,Negative
+21,Male,116.6,20,57.1,Coastal,118.6,falciparum,yes,no,no,no,no,no,Negative
+27,Male,61.1,22.4,59.5,Lake Basin,36.6,falciparum,no,yes,yes,no,no,yes,Positive
+27,Female,260.7,23,41.8,Coastal,76.4,falciparum,yes,no,no,no,yes,no,Negative
+19,Female,216.8,22.5,80.4,Seasonal,48.7,falciparum,no,no,no,no,no,no,Negative
+38,Female,174.3,33.6,43,Seasonal,90.6,falciparum,yes,yes,yes,yes,no,yes,Positive
+49,Female,97.7,22,70.4,Lake Basin,70.1,falciparum,no,no,yes,no,yes,yes,Negative
+48,Male,74.8,32.4,71.9,Coastal,186.4,falciparum,yes,yes,yes,yes,yes,no,Positive
+26,Male,113.1,21,39.2,Highland,165.4,falciparum,yes,yes,yes,no,no,no,Negative
+23,Male,120.9,26.8,84.6,Coastal,128.1,falciparum,yes,yes,no,no,yes,yes,Positive
+44,Male,277.4,27.1,31.1,Coastal,38.7,falciparum,yes,yes,no,yes,yes,yes,Positive
+32,Female,219.1,32,81.2,Coastal,97.2,falciparum,no,yes,yes,yes,no,no,Negative
+49,Male,80.3,32.7,60.7,Lake Basin,160.4,falciparum,no,yes,yes,yes,yes,yes,Positive
+33,Female,217.1,29.7,61.4,Coastal,41,falciparum,no,no,no,no,no,no,Negative
+19,Male,132.1,28.4,84,Coastal,113,falciparum,yes,no,no,no,no,no,Negative
+19,Male,78,30.7,68.4,Coastal,16.9,falciparum,no,no,yes,no,no,yes,Negative
+21,Male,276.7,29,84.2,Lake Basin,15.9,falciparum,no,yes,no,yes,yes,yes,Negative
+47,Female,171.5,35,59.9,Coastal,63.4,falciparum,yes,no,no,no,yes,yes,Positive
+25,Female,60,24.6,86.9,Lake Basin,89.4,falciparum,yes,no,no,no,no,yes,Negative
+34,Female,151.5,23,88.8,Highland,87.4,falciparum,no,no,yes,no,yes,no,Negative
+22,Female,279.1,25.7,59.6,Seasonal,34.6,falciparum,yes,yes,no,no,no,no,Negative
+20,Female,281.6,23.3,38.7,Lake Basin,160.8,falciparum,no,no,no,no,no,yes,Negative
+33,Female,195.2,25,44.5,Lake Basin,153,falciparum,yes,yes,no,yes,no,no,Negative
+23,Male,227.7,29.3,45.4,Lake Basin,144.5,falciparum,no,yes,yes,yes,no,yes,Negative
+22,Male,208.4,30,77.2,Coastal,109.1,falciparum,yes,yes,yes,yes,yes,no,Positive
+39,Male,258,34.5,46.3,Lake Basin,127.5,falciparum,no,yes,no,no,no,yes,Negative
+39,Male,292,28.3,69.5,Coastal,171.7,falciparum,yes,no,yes,yes,yes,yes,Positive
+17,Female,266.7,27.8,30.5,Coastal,112.7,falciparum,no,no,yes,no,no,no,Negative
+17,Female,83.9,23.8,61.1,Coastal,137.3,falciparum,no,yes,no,no,yes,no,Negative
+38,Male,64.1,33.2,89.8,Lake Basin,188.3,falciparum,yes,yes,yes,yes,no,yes,Positive
+27,Female,161.7,21.2,78.5,Seasonal,153.3,falciparum,yes,yes,no,yes,no,no,Negative
+22,Female,236.1,29.8,40.7,Lake Basin,178.1,falciparum,no,yes,yes,no,yes,no,Negative
+46,Male,77.7,22.9,36.6,Coastal,30.8,falciparum,yes,yes,no,yes,yes,yes,Positive
+15,Male,153.2,28.7,55.1,Seasonal,58.6,falciparum,yes,no,yes,no,no,no,Negative
+19,Male,156.1,25.7,45.4,Lake Basin,159.4,falciparum,no,yes,yes,yes,yes,yes,Negative
+18,Female,205,24.4,68.6,Lake Basin,36.2,falciparum,no,no,yes,no,no,no,Negative
+46,Male,85.2,24.1,54.4,Lake Basin,98.7,falciparum,no,no,no,no,no,no,Negative
+29,Female,59.2,20.6,38.2,Seasonal,109.9,falciparum,yes,yes,no,yes,yes,yes,Positive
+36,Female,146.7,30.6,36.3,Lake Basin,94.7,falciparum,no,yes,yes,yes,yes,yes,Positive
+22,Male,250.7,22.1,58,Coastal,51.3,falciparum,yes,no,yes,no,no,no,Negative
+45,Female,166,30.2,80.7,Lake Basin,191.6,falciparum,yes,no,yes,no,no,yes,Negative
+25,Male,261.7,25.6,74.6,Coastal,40.2,falciparum,no,no,no,yes,no,no,Negative
+28,Male,201,33.3,36.3,Lake Basin,94.7,falciparum,no,no,yes,yes,yes,yes,Positive
+29,Female,255.7,24.8,67.8,Lake Basin,140,falciparum,yes,yes,yes,yes,yes,yes,Positive
+37,Male,119.1,26.7,78.7,Lake Basin,68.4,falciparum,yes,no,yes,no,no,no,Negative
+33,Male,101.5,24.6,44.9,Coastal,186.8,falciparum,no,no,no,yes,yes,yes,Negative
+28,Female,258.6,34.3,30.8,Low risk,155.3,falciparum,no,no,no,yes,no,yes,Negative
+18,Male,83.6,33.9,78,Lake Basin,180,falciparum,no,yes,yes,no,yes,yes,Negative
+24,Female,151.5,24.5,65,Seasonal,101.7,falciparum,yes,no,yes,yes,yes,yes,Positive
+40,Male,53.3,25.1,38.3,Coastal,77.3,falciparum,no,no,no,no,no,yes,Negative
+26,Female,231.8,23.5,40.8,Seasonal,77.2,falciparum,yes,yes,no,yes,yes,yes,Positive
+40,Male,113.5,22,84.2,Lake Basin,185.6,falciparum,no,yes,yes,no,no,yes,Negative
+21,Female,111.5,32.2,76.9,Seasonal,117.7,falciparum,no,yes,no,yes,no,yes,Negative
+19,Female,297.1,23.7,78.1,Lake Basin,118,falciparum,yes,no,yes,yes,no,yes,Positive
+15,Male,223.7,31.3,71.9,Low risk,118.7,falciparum,yes,yes,yes,no,no,no,Negative
+34,Male,61.3,31.8,47.5,Lake Basin,31.4,falciparum,no,no,no,no,no,no,Negative
+24,Female,85.5,28.1,45.1,Coastal,139.1,falciparum,no,yes,yes,no,no,no,Negative
+48,Male,87.8,20.9,77.3,Seasonal,134.2,falciparum,no,no,no,yes,yes,yes,Negative
+21,Female,246.1,31.6,53.2,Coastal,41.9,falciparum,yes,yes,yes,yes,yes,yes,Positive
+16,Female,91.1,26,56.8,Coastal,196,falciparum,yes,no,no,no,no,no,Negative
+39,Female,160.6,34.1,57.1,Lake Basin,195.9,falciparum,yes,yes,yes,no,no,no,Negative
+16,Male,114,21.9,75.9,Lake Basin,186.3,falciparum,no,no,no,yes,no,no,Negative
+38,Female,109.1,21.6,42,Coastal,46.3,falciparum,yes,yes,yes,yes,no,yes,Positive
+22,Male,199.1,23.7,48.5,Lake Basin,50.3,falciparum,no,no,no,yes,no,no,Negative
+16,Male,272,33.9,59.6,Highland,69,falciparum,yes,no,no,yes,no,no,Negative
+37,Male,127.1,33.7,71.2,Lake Basin,189.5,falciparum,yes,yes,yes,yes,yes,no,Positive
+26,Female,119.3,34.7,45.5,Low risk,49.3,falciparum,yes,no,no,yes,no,no,Negative
+41,Male,234.7,30.4,48.6,Lake Basin,104.6,falciparum,yes,yes,yes,yes,yes,no,Positive
+46,Female,191.3,33.3,48.8,Lake Basin,134.4,falciparum,no,yes,yes,no,no,no,Negative
+26,Female,296.7,26,44.7,Coastal,162.8,falciparum,no,no,no,no,no,no,Negative
+23,Female,255,29.6,62.5,Coastal,53,falciparum,yes,yes,yes,no,no,yes,Negative
+27,Male,111.6,30.7,69.7,Seasonal,78.7,falciparum,no,yes,no,yes,no,no,Negative
+21,Female,276.7,31.6,66.4,Seasonal,158.7,falciparum,yes,no,no,yes,no,no,Negative
+46,Male,285.5,27.7,81.1,Coastal,83.5,falciparum,no,no,yes,yes,yes,yes,Negative
+44,Female,195.7,31.9,38.5,Coastal,58.4,falciparum,no,yes,no,no,no,no,Negative
+21,Male,155.9,31.9,85.1,Lake Basin,139.8,falciparum,no,no,no,yes,no,no,Negative
+28,Male,253.2,25.6,68.8,Lake Basin,48.9,falciparum,yes,no,yes,no,no,no,Negative
+35,Female,178.2,20.7,74.2,Lake Basin,11,falciparum,yes,yes,no,yes,no,yes,Positive
+38,Male,129.8,24.8,55.1,Coastal,101.4,falciparum,yes,no,no,no,no,no,Negative
+39,Male,252.8,27.6,86.3,Lake Basin,98.5,falciparum,no,no,no,yes,no,yes,Negative
+41,Female,158.8,31.4,80.1,Coastal,11.4,falciparum,no,no,yes,no,yes,no,Negative
+38,Female,126.5,25,60.6,Coastal,177.6,falciparum,no,no,yes,no,no,no,Negative
+29,Male,91.4,32,84.6,Lake Basin,54.5,falciparum,no,no,no,no,no,no,Negative
+49,Male,173.9,20.1,62.5,Seasonal,37.2,falciparum,no,no,no,no,no,no,Negative
+22,Male,200,22.8,36.5,Coastal,163.2,falciparum,no,no,no,no,no,no,Negative
+49,Female,225.1,28.9,67.5,Lake Basin,118.2,falciparum,yes,no,no,yes,yes,no,Negative
+41,Female,69.5,33.2,33.1,Coastal,115.1,falciparum,no,no,no,no,no,no,Negative
+15,Male,182.2,33.2,30.6,Coastal,118.5,falciparum,no,yes,no,no,no,no,Negative
+39,Female,244.2,33.2,89.2,Lake Basin,116.3,falciparum,no,no,no,no,no,no,Negative
+19,Male,279,30.1,78.8,Low risk,100.1,falciparum,no,no,no,yes,no,no,Negative
+22,Male,206.6,27.6,65.7,Low risk,39.4,falciparum,no,no,no,yes,no,no,Negative
+20,Male,258.5,34.1,35.2,Coastal,115.4,falciparum,no,yes,no,no,yes,yes,Negative
+16,Female,115.7,25.5,62.5,Highland,124.8,falciparum,no,no,no,no,no,no,Negative
+31,Male,127.4,30.6,74.7,Coastal,174.9,falciparum,yes,yes,yes,yes,yes,yes,Positive
+44,Male,146.5,33.1,35.5,Low risk,85.3,falciparum,no,yes,no,yes,yes,no,Negative
+17,Female,179.8,24.9,55,Coastal,108.9,falciparum,no,no,yes,no,no,no,Negative
+19,Male,138.4,26.2,37,Lake Basin,141,falciparum,no,no,yes,no,no,no,Negative
+22,Male,120.5,22,50.7,Coastal,48.3,falciparum,no,yes,no,no,no,yes,Negative
+15,Female,263.2,22.9,57.2,Coastal,53,falciparum,yes,yes,yes,yes,no,yes,Positive
+47,Female,129.8,32.9,64.4,Highland,124.1,falciparum,yes,yes,yes,yes,no,yes,Negative
+39,Female,167.4,20.7,32.3,Seasonal,64.2,falciparum,no,no,yes,no,no,no,Negative
+30,Female,101.9,28.2,80.4,Coastal,100.6,falciparum,no,no,yes,yes,yes,yes,Positive
+37,Male,157.5,29.5,55.3,Lake Basin,178.3,falciparum,no,no,no,yes,no,yes,Negative
+26,Male,214.8,22.1,35.2,Seasonal,164.8,falciparum,no,no,no,no,yes,no,Negative
+40,Male,278.2,26.1,38,Lake Basin,109.4,falciparum,no,no,yes,no,no,yes,Negative
+47,Female,187.6,28.5,36.9,Coastal,127.8,falciparum,no,no,no,no,no,yes,Negative
+37,Female,101.3,21.6,83.2,Highland,32.5,falciparum,yes,no,no,no,no,no,Negative
+33,Male,66.4,20.7,55.6,Low risk,129.7,falciparum,no,yes,yes,yes,yes,yes,Positive
+37,Male,95.1,20.3,44.5,Low risk,38.2,falciparum,no,yes,no,no,no,no,Negative
+42,Male,193.7,24.3,68.5,Coastal,70.1,falciparum,yes,no,yes,yes,yes,no,Positive
+37,Male,263.3,20.6,69.7,Lake Basin,128.6,falciparum,no,no,no,no,no,yes,Negative
+25,Female,291.3,32.8,40.3,Coastal,49.1,falciparum,yes,no,no,yes,no,yes,Negative
+21,Male,192,29.7,67.9,Low risk,72.5,falciparum,yes,yes,no,yes,yes,no,Negative
+17,Male,295.8,24,49,Coastal,95.3,falciparum,no,no,no,no,yes,no,Negative
+19,Male,268.8,26.9,85.4,Lake Basin,146.6,falciparum,yes,yes,yes,yes,yes,yes,Positive
+28,Female,205.9,33.5,39.9,Seasonal,18.4,falciparum,no,yes,yes,no,no,no,Negative
+39,Male,171.2,33.5,67,Seasonal,71.6,falciparum,no,no,yes,no,yes,no,Negative
+40,Male,135.8,25.3,67.7,Coastal,59.3,falciparum,no,no,no,no,no,yes,Negative
+48,Male,278.5,22.8,31.9,Highland,74.6,falciparum,yes,no,no,yes,yes,yes,Positive
+27,Female,126.4,20.3,58.3,Coastal,22,falciparum,yes,yes,yes,yes,yes,yes,Positive
+43,Female,58.3,24,43.9,Seasonal,106.9,falciparum,no,no,no,no,no,no,Negative
+27,Male,195.8,32.3,73.4,Seasonal,44.3,falciparum,yes,no,no,yes,yes,no,Negative
+23,Female,95.2,20.7,34.8,Highland,64.3,falciparum,no,no,no,no,no,no,Negative
+31,Male,96.1,29.8,67.5,Lake Basin,49.2,falciparum,no,no,no,no,no,no,Negative
+48,Female,172.8,26.3,64.7,Lake Basin,167.4,falciparum,yes,no,no,no,yes,no,Negative
+20,Male,60.2,23.9,44.6,Coastal,71.1,falciparum,no,no,yes,yes,yes,yes,Positive
+19,Female,97.2,27.5,60,Lake Basin,86.5,falciparum,no,yes,yes,no,no,no,Negative
+49,Male,126,32.5,58.9,Coastal,177,falciparum,no,no,no,no,no,no,Negative
+22,Female,90.9,25.4,34.2,Coastal,62.3,falciparum,yes,yes,no,no,no,no,Negative
+24,Male,58.3,27.1,36.9,Coastal,58.7,falciparum,yes,no,no,no,no,yes,Negative
+37,Female,264.3,22.4,53,Coastal,130.8,falciparum,no,no,no,yes,no,no,Negative
+35,Male,177.6,26.6,52.3,Highland,170.9,falciparum,yes,no,yes,yes,no,no,Negative
+39,Female,147.4,33.8,63.6,Lake Basin,139.3,falciparum,yes,no,no,yes,yes,yes,Positive
+44,Male,203,22.4,86.3,Seasonal,87.8,falciparum,no,no,no,no,no,yes,Negative
+28,Male,122.1,34.1,63.4,Seasonal,27.2,falciparum,no,no,yes,no,yes,no,Positive
+19,Female,236.5,31.5,56.8,Low risk,146.7,falciparum,yes,no,yes,yes,yes,no,Positive
+38,Male,137,26.5,87,Lake Basin,92.6,falciparum,no,no,no,yes,yes,no,Negative
+46,Male,173.6,25.6,60.1,Lake Basin,121.3,falciparum,no,yes,no,no,no,yes,Negative
+18,Male,211.3,32.8,76.7,Lake Basin,149.9,falciparum,yes,no,no,yes,no,no,Negative
+46,Male,97.7,23.9,80.8,Coastal,86.5,falciparum,yes,yes,no,yes,yes,yes,Negative
+19,Male,216.2,25.1,59,Lake Basin,85.3,falciparum,yes,no,no,no,no,no,Negative
+25,Female,218.4,26.1,78.4,Low risk,66.5,malariae,no,no,no,yes,yes,no,Negative
+49,Male,62.3,22.9,54.4,Coastal,167.7,malariae,no,no,no,no,yes,no,Negative
+48,Female,260.1,26.9,82.9,Coastal,142.9,malariae,no,yes,no,no,no,yes,Negative
+26,Male,251.2,29.3,60.5,Lake Basin,86.1,malariae,no,no,no,no,no,no,Negative
+27,Female,54.4,29.3,84,Lake Basin,184.8,malariae,no,no,no,yes,no,no,Negative
+33,Male,156.8,27.2,63.3,Lake Basin,51.4,malariae,yes,no,yes,no,no,no,Negative
+47,Male,193.8,28.2,75.8,Lake Basin,167.1,malariae,no,yes,yes,no,no,no,Negative
+29,Female,208.6,22.8,56.4,Lake Basin,104.2,malariae,yes,no,no,yes,yes,no,Negative
+28,Female,221.9,29.7,43.3,Lake Basin,90.8,malariae,no,no,yes,yes,no,no,Negative
+49,Male,63.7,23.2,78.2,Lake Basin,28,malariae,yes,no,no,no,no,no,Negative
+30,Male,288.7,20.6,52.4,Lake Basin,181.7,malariae,no,no,no,yes,no,no,Negative
+46,Male,259.7,28.3,71,Seasonal,104.6,malariae,no,yes,no,no,yes,yes,Negative
+23,Female,287.1,24.1,54.4,Lake Basin,187.2,malariae,yes,yes,no,no,yes,no,Negative
+40,Male,282.9,33.1,87,Highland,178.3,malariae,no,yes,no,no,yes,no,Negative
+42,Male,192,33.3,53.3,Coastal,35.4,malariae,no,no,no,no,yes,yes,Negative
+31,Female,180.5,31.2,61.5,Coastal,152.2,malariae,yes,yes,yes,no,no,no,Negative
+37,Male,270,28.9,78.4,Highland,137.1,malariae,yes,yes,yes,yes,no,yes,Positive
+25,Female,284.3,25.9,79.7,Lake Basin,118,malariae,no,yes,yes,no,no,no,Negative
+15,Male,209.8,25.7,88.6,Highland,43.1,malariae,no,no,no,yes,no,no,Negative
+30,Male,125.1,26.7,32.8,Coastal,176.9,malariae,yes,yes,yes,no,yes,no,Negative
+32,Male,216.7,34.8,86.9,Coastal,163.3,malariae,no,no,no,no,no,no,Negative
+24,Male,110.2,32.6,56.8,Highland,175.2,malariae,no,yes,yes,no,no,no,Negative
+32,Male,175.7,28.3,56.6,Seasonal,87.6,malariae,yes,no,yes,no,no,no,Negative
+33,Female,268.4,26.8,30.4,Coastal,79.1,malariae,no,no,no,no,no,no,Negative
+48,Female,217.7,32.4,44.2,Coastal,70.7,malariae,no,no,no,yes,no,no,Negative
+49,Female,280.7,25.1,85.2,Coastal,36.5,malariae,no,yes,no,no,no,no,Negative
+33,Female,168.4,27.3,30.9,Lake Basin,97.5,malariae,yes,no,no,no,no,no,Negative
+42,Male,90.5,23,69.7,Lake Basin,48.3,malariae,no,no,yes,no,no,no,Negative
+44,Male,275.5,32.5,72.5,Lake Basin,26,malariae,no,no,no,yes,yes,yes,Negative
+24,Female,60.9,32.4,48.7,Seasonal,124.8,malariae,no,yes,yes,yes,yes,yes,Negative
+15,Female,259.3,20.3,79.4,Coastal,30.8,malariae,no,no,no,no,no,no,Negative
+27,Female,180.7,33.2,83.4,Coastal,191.9,malariae,yes,no,no,no,no,yes,Negative
+48,Female,290.8,20.6,79.4,Coastal,33,malariae,yes,no,no,no,no,no,Negative
+33,Female,85.7,27.5,61.2,Lake Basin,45.6,malariae,no,no,yes,no,no,yes,Negative
+15,Male,280.1,21.3,56.8,Coastal,91.7,malariae,no,yes,no,yes,no,yes,Negative
+42,Male,205.7,22.4,66.6,Highland,154.8,malariae,yes,yes,no,no,no,no,Negative
+15,Male,135.2,32.5,82.9,Coastal,67.1,malariae,yes,no,yes,no,no,yes,Negative
+48,Male,120.9,23.9,57.3,Low risk,169.3,malariae,no,no,yes,no,yes,no,Negative
+27,Male,146.5,33.3,50.5,Low risk,58.3,malariae,no,yes,no,no,yes,no,Negative
+20,Female,101.1,20.2,61.8,Highland,87.9,malariae,no,yes,no,no,no,no,Negative
+24,Male,135.2,34.1,51.4,Coastal,37.6,malariae,yes,no,no,no,no,no,Negative
+25,Male,99.5,27,76.1,Coastal,97,malariae,no,yes,yes,no,no,no,Negative
+22,Male,274.8,31,46.2,Coastal,123.8,malariae,no,no,yes,no,no,yes,Negative
+20,Male,87.8,27.9,52.5,Coastal,120.2,malariae,no,yes,no,no,no,no,Negative
+34,Female,106.8,25.6,41,Lake Basin,62.1,malariae,no,no,no,no,no,yes,Negative
+17,Male,69.2,29,72.8,Coastal,192.4,malariae,yes,yes,no,no,no,no,Negative
+31,Female,203.5,27.8,53.7,Coastal,103.1,malariae,no,yes,no,yes,no,yes,Negative
+37,Male,82.1,20.2,69.4,Coastal,21.4,malariae,no,yes,yes,no,no,yes,Negative
+31,Female,95.9,24.4,44.4,Lake Basin,15.7,malariae,no,no,no,yes,yes,no,Negative
+32,Female,204.6,26,32.1,Seasonal,41.4,malariae,no,yes,no,yes,no,no,Negative
+29,Male,245,28.2,39.2,Coastal,17.1,malariae,no,no,no,no,no,no,Negative
+44,Male,146.6,26.3,86.9,Highland,88.9,malariae,no,no,yes,yes,no,no,Negative
+45,Male,265.6,20.9,30.1,Seasonal,72.8,malariae,no,yes,no,no,no,no,Negative
+27,Male,271.2,30.6,50.1,Coastal,82.9,malariae,yes,no,no,yes,no,no,Negative
+40,Male,144.8,31.9,31.6,Lake Basin,26,malariae,no,no,yes,yes,no,no,Negative
+24,Male,70.8,34.1,45,Highland,187.5,malariae,yes,no,yes,no,no,no,Negative
+45,Male,160.1,31.6,68.2,Seasonal,76.4,malariae,no,no,no,no,no,no,Negative
+18,Female,146.4,27,71.3,Coastal,84.8,malariae,yes,no,no,no,yes,yes,Negative
+15,Female,95.7,34.7,64.5,Coastal,89,malariae,no,no,no,no,yes,no,Negative
+17,Male,215.2,24.2,49,Lake Basin,33,malariae,no,yes,yes,no,no,yes,Negative
+36,Female,102.6,29.3,43.6,Coastal,116.9,malariae,yes,yes,yes,no,no,no,Negative
+31,Female,298.8,29.8,34.1,Coastal,181.4,malariae,no,no,no,no,no,no,Negative
+31,Male,96.9,34.8,60,Lake Basin,32,malariae,no,yes,no,no,yes,yes,Negative
+16,Female,184.5,28.2,40.2,Coastal,72.7,malariae,no,no,no,yes,yes,yes,Negative
+18,Male,64.9,22.2,35.9,Seasonal,75.9,malariae,no,no,no,no,no,no,Negative
+36,Female,191.3,30.8,38,Seasonal,114.4,malariae,no,no,no,no,no,no,Negative
+32,Male,82.8,20.4,88.2,Highland,82.1,malariae,no,yes,no,yes,no,no,Negative
+24,Female,161.3,33.9,82.7,Coastal,148.8,malariae,yes,yes,no,no,no,yes,Negative
+25,Female,198.5,29.7,82.1,Seasonal,179.7,malariae,no,no,yes,yes,no,no,Negative
+19,Male,259.9,22.4,82.4,Lake Basin,82.7,malariae,no,no,yes,no,yes,no,Negative
+43,Male,239.8,30.6,75.6,Highland,192.5,malariae,no,yes,no,yes,no,yes,Negative
+43,Female,99,31.9,38.1,Coastal,127.4,malariae,no,no,no,no,yes,no,Negative
+30,Female,217,22.3,40.3,Seasonal,151.7,malariae,yes,no,no,yes,no,no,Negative
+21,Female,278.6,27.8,77.3,Low risk,69.4,malariae,yes,no,no,no,no,yes,Negative
+38,Female,71.8,27.1,43.8,Lake Basin,19.8,malariae,no,no,no,no,yes,no,Negative
+27,Female,177.2,21.5,61.3,Coastal,43,malariae,yes,no,no,no,no,no,Negative
+36,Female,280.9,23.4,30.3,Lake Basin,191.1,malariae,no,no,yes,no,no,yes,Negative
+20,Male,73.7,20.6,65.5,Low risk,81.8,malariae,no,no,no,no,yes,yes,Negative
+32,Male,242.1,28.7,46.8,Lake Basin,175.4,malariae,no,no,no,no,no,yes,Negative
+23,Female,218.2,20.9,56.3,Lake Basin,194.9,malariae,no,yes,no,no,no,no,Negative
+30,Female,205.1,23.4,68.8,Lake Basin,120.8,malariae,no,yes,no,no,no,no,Negative
+46,Male,193.5,33.1,57.7,Coastal,193.8,malariae,no,yes,no,no,yes,no,Negative
+35,Female,227.1,30.1,69.3,Low risk,88.8,malariae,yes,no,no,no,no,no,Negative
+29,Female,297.1,28.3,58.1,Seasonal,137,malariae,no,yes,no,yes,no,no,Negative
+47,Female,285.9,23.3,69.3,Lake Basin,95.7,malariae,no,no,no,no,yes,yes,Negative
+25,Female,242.3,32,85.5,Coastal,67,malariae,no,yes,yes,no,no,no,Negative
+31,Male,229.4,22.3,81.4,Lake Basin,56.5,malariae,no,no,yes,no,no,yes,Negative
+28,Female,211.9,33.9,79.9,Coastal,103.2,malariae,no,no,no,no,no,yes,Negative
+43,Male,131.1,22,76.5,Coastal,181.1,malariae,yes,no,yes,yes,no,yes,Negative
+43,Female,90.2,21.7,67.8,Seasonal,128.1,malariae,no,yes,no,yes,yes,no,Negative
+32,Male,206.8,24.8,35.4,Coastal,38.7,malariae,yes,no,no,no,yes,no,Negative
+30,Male,243.6,34.5,55.4,Low risk,182.1,malariae,no,no,no,yes,no,no,Negative
+34,Male,249.8,28.8,76.2,Low risk,138.8,malariae,no,no,yes,no,no,no,Negative
+23,Female,213.2,23.9,32.3,Coastal,91.9,malariae,yes,yes,no,no,no,no,Negative
+35,Female,269.4,24.7,89.6,Coastal,167.2,malariae,no,yes,no,no,no,yes,Negative
+43,Male,200.6,26.4,84.7,Coastal,108.6,malariae,no,yes,yes,no,no,no,Negative
+25,Female,127.5,24.2,50.1,Lake Basin,190.9,malariae,yes,no,no,no,yes,no,Negative
+42,Female,252.2,22.4,30.6,Lake Basin,145.3,malariae,no,no,no,no,yes,yes,Negative
+38,Female,97.4,22.4,57.3,Seasonal,116.5,malariae,no,no,yes,no,no,yes,Negative
+27,Female,252.8,26.8,41.2,Coastal,170.9,malariae,no,yes,no,no,no,no,Negative
+15,Female,110.4,21.6,37.9,Coastal,24.7,malariae,no,yes,yes,yes,yes,no,Negative
+37,Female,191.8,32.1,38.7,Lake Basin,112.7,malariae,yes,no,no,no,no,yes,Negative
+36,Female,100.4,21.6,66.3,Lake Basin,16.8,malariae,no,yes,yes,no,no,no,Negative
+37,Female,54.5,25.5,50,Lake Basin,174.2,malariae,no,yes,no,no,yes,yes,Negative
+29,Female,121,23.9,44.4,Low risk,10.9,malariae,no,no,no,no,no,no,Negative
+49,Female,181.6,30.8,80.4,Coastal,117.6,malariae,no,yes,no,yes,yes,no,Negative
+49,Male,244.7,22,89,Highland,15,malariae,no,no,no,no,no,yes,Negative
+22,Male,203.8,21.4,45.9,Coastal,111.1,malariae,no,no,yes,no,no,no,Negative
+48,Male,274.1,32.9,37.2,Lake Basin,40.9,malariae,no,no,yes,no,no,no,Negative
+24,Female,277,30.6,86.8,Lake Basin,155.3,malariae,no,no,no,no,no,no,Negative
+35,Female,206.6,32.1,69.1,Coastal,170.6,malariae,no,yes,no,no,no,no,Negative
+34,Male,77.6,33.9,63.4,Seasonal,188.5,malariae,no,yes,no,yes,yes,no,Negative
+45,Female,84.4,31.1,79.4,Seasonal,105.5,malariae,no,no,yes,no,no,yes,Negative
+37,Male,104.1,34,47.7,Coastal,164.5,malariae,no,yes,no,no,no,no,Negative
+29,Male,144.8,29.4,44.4,Lake Basin,137,malariae,no,no,yes,no,yes,no,Negative
+44,Male,105.9,31.9,58.6,Seasonal,37.9,malariae,no,no,no,no,no,no,Negative
+39,Male,127.5,22.8,49.5,Seasonal,108.8,malariae,no,no,no,no,no,no,Negative
+45,Female,297.2,23.5,81.6,Coastal,194,malariae,no,no,yes,no,no,no,Negative
+28,Female,98.5,26.1,78,Seasonal,155.4,malariae,yes,yes,no,no,no,no,Negative
+23,Female,241.4,32.9,56.8,Highland,95.9,malariae,yes,no,yes,yes,yes,yes,Positive
+48,Female,204.5,23.1,49.6,Coastal,62.2,malariae,yes,no,yes,no,yes,yes,Negative
+44,Female,120.8,34.8,71,Coastal,157.9,malariae,no,yes,no,no,yes,no,Negative
+47,Female,201.9,32.3,61,Seasonal,112.4,malariae,no,yes,no,no,no,no,Negative
+37,Female,266.6,28.5,76,Lake Basin,184.4,malariae,yes,no,yes,yes,no,yes,Negative
+21,Female,229.3,20.4,71.4,Lake Basin,169.2,malariae,yes,yes,yes,yes,yes,no,Positive
+40,Male,62.3,25.9,59.1,Lake Basin,135.6,malariae,yes,no,no,no,no,no,Negative
+20,Male,144.6,23.3,78,Seasonal,105.5,malariae,no,no,no,yes,no,yes,Negative
+32,Female,102.3,27.5,79.3,Coastal,186.5,malariae,no,no,no,no,no,no,Negative
+30,Female,190.1,28.4,46.3,Seasonal,47.1,malariae,no,no,no,yes,yes,no,Negative
+34,Male,265.7,23.1,60.8,Lake Basin,89.7,malariae,yes,yes,no,no,no,no,Negative
+44,Male,196.5,32.9,79,Highland,49.7,malariae,no,no,no,yes,yes,no,Negative
+22,Male,72.4,24.1,31.5,Low risk,119.5,malariae,yes,no,no,no,yes,no,Negative
+47,Male,109.7,24.5,89.8,Coastal,97,malariae,yes,no,no,no,yes,no,Negative
+49,Male,206.5,32.6,82,Coastal,138.4,malariae,no,no,no,no,yes,no,Negative
+30,Male,203.7,28.8,33.5,Lake Basin,108.9,malariae,yes,yes,yes,no,no,yes,Negative
+24,Male,154.3,24.4,34.7,Lake Basin,109.3,malariae,yes,no,no,no,yes,no,Negative
+25,Male,146.5,29.8,72.9,Lake Basin,41.2,malariae,no,no,yes,no,yes,no,Negative
+44,Female,122.1,22.2,52.8,Lake Basin,20,malariae,no,no,no,yes,no,no,Negative
+21,Male,201.6,20.8,73.9,Low risk,87.4,malariae,yes,no,no,no,no,no,Negative
+38,Female,109.5,28.4,55.6,Coastal,198.6,malariae,yes,yes,no,yes,no,no,Negative
+44,Male,290.8,33.5,41.1,Lake Basin,77.8,malariae,no,yes,no,yes,no,no,Negative
+34,Female,278.8,23.1,83.3,Coastal,39,malariae,no,yes,yes,yes,no,yes,Positive
+30,Male,92.4,33.3,82,Lake Basin,53,malariae,no,no,no,no,yes,no,Negative
+29,Male,280.6,32,34.1,Lake Basin,140.2,malariae,no,no,no,yes,no,no,Negative
+46,Male,194,25.9,84.4,Highland,18.2,malariae,no,no,yes,no,no,no,Negative
+21,Male,175.5,30.6,52.1,Coastal,23.1,malariae,no,no,yes,no,no,no,Negative
+41,Female,142.5,30.7,64.1,Coastal,41,malariae,yes,no,yes,no,no,yes,Negative
+43,Male,160.8,26.4,83.2,Lake Basin,56.4,malariae,no,no,no,no,yes,yes,Negative
+48,Male,122.1,25,61.8,Coastal,77.6,malariae,no,no,no,no,no,yes,Negative
+25,Female,53.8,27.6,61.4,Coastal,61.3,malariae,no,yes,no,yes,no,no,Negative
+24,Female,141.3,24.5,75.2,Seasonal,141.1,malariae,yes,no,no,no,no,no,Negative
+46,Male,169,23,49.2,Coastal,148.3,malariae,no,no,no,yes,no,no,Negative
+47,Male,59,26.9,75.3,Coastal,140.3,malariae,no,no,no,no,no,no,Negative
+24,Female,101.9,29.1,83,Seasonal,88.4,malariae,no,yes,yes,yes,yes,no,Negative
+18,Female,279.6,25.7,51.9,Highland,77.2,malariae,yes,yes,yes,yes,yes,no,Negative
+43,Female,74.5,22.9,40.2,Coastal,93.6,malariae,yes,no,no,no,no,yes,Negative
+23,Male,279.1,24.7,82.3,Lake Basin,129.5,malariae,no,no,yes,no,no,yes,Negative
+35,Male,195.2,22.7,37.8,Lake Basin,59,malariae,no,no,yes,yes,no,yes,Negative
+34,Male,187.9,23.7,83.2,Seasonal,184.4,malariae,no,yes,no,no,no,no,Negative
+43,Female,248.4,20.8,79.1,Highland,191.9,malariae,no,no,no,yes,yes,no,Negative
+37,Male,104,29,46.6,Lake Basin,154.8,malariae,no,no,no,yes,no,no,Negative
+33,Female,155.9,28.2,58.3,Lake Basin,181.9,malariae,no,no,no,no,no,no,Negative
+21,Male,252,22.2,89.7,Coastal,127.5,malariae,yes,yes,no,yes,no,no,Negative
+49,Male,82.1,24.2,43.1,Coastal,74.1,malariae,no,yes,no,no,no,no,Negative
+45,Male,209.5,32.7,45.1,Seasonal,80.8,malariae,no,no,yes,yes,no,yes,Negative
+33,Female,146,25.9,71.3,Coastal,11.9,malariae,yes,no,no,no,yes,yes,Negative
+32,Female,134.3,32.5,46.3,Lake Basin,41.6,malariae,no,no,no,no,no,yes,Negative
+18,Female,139.9,25.8,36,Seasonal,110.5,malariae,yes,no,no,yes,no,no,Negative
+48,Male,254,32.4,61.8,Coastal,23.1,malariae,yes,yes,no,no,no,no,Negative
+45,Female,84.7,22.8,47.4,Lake Basin,106.6,malariae,yes,no,no,no,no,no,Negative
+43,Male,176.6,26,64.7,Coastal,129.2,malariae,no,yes,no,yes,no,no,Negative
+33,Male,185.1,20.4,57.1,Highland,144.4,malariae,no,no,yes,no,no,no,Negative
+38,Female,241.8,25.7,81.6,Coastal,108.8,malariae,no,yes,yes,no,no,no,Negative
+43,Male,73.4,23.3,53.4,Lake Basin,109.7,malariae,no,no,no,no,no,no,Negative
+43,Female,206.6,30.1,65.5,Seasonal,14.6,malariae,no,yes,no,no,yes,no,Negative
+43,Female,246.2,27,56,Coastal,81.3,malariae,yes,yes,no,yes,no,no,Negative
+39,Male,155,24.6,83.2,Coastal,14.9,malariae,yes,no,yes,yes,no,no,Negative
+23,Male,65.3,23.5,71.4,Coastal,168,malariae,yes,no,no,yes,no,yes,Negative
+26,Female,190.8,30.4,46.6,Lake Basin,115.9,malariae,no,yes,yes,no,no,yes,Negative
+20,Male,60.9,30.1,33.9,Coastal,149.8,malariae,no,no,no,yes,yes,no,Negative
+41,Male,83.5,32.3,62.7,Lake Basin,66.2,malariae,no,no,yes,no,yes,no,Negative
+47,Male,195.2,26.2,64.2,Coastal,191,malariae,no,no,no,no,no,yes,Negative
+38,Female,120.4,20,63.4,Seasonal,42.3,malariae,no,no,yes,no,yes,no,Negative
+22,Male,85.4,23,79.5,Low risk,103.3,malariae,no,no,no,no,no,yes,Negative
+48,Female,68.5,26,56.8,Lake Basin,103.1,malariae,no,no,no,no,no,no,Negative
+47,Female,105.1,32.8,44,Coastal,46.7,malariae,no,no,no,no,no,no,Negative
+25,Female,260.9,22.6,66.7,Coastal,90.8,malariae,yes,no,yes,yes,no,yes,Negative
+43,Male,154.1,28.5,32.8,Coastal,50.6,malariae,no,no,no,no,yes,no,Negative
+29,Male,101.7,23,47.9,Lake Basin,73.4,malariae,yes,no,yes,no,no,yes,Negative
+20,Female,70,22.6,32.8,Lake Basin,33.3,malariae,no,no,no,yes,yes,no,Negative
+35,Male,79.8,28.3,75.6,Lake Basin,99.9,malariae,no,yes,no,yes,no,no,Negative
+16,Male,213.1,25.1,39.7,Coastal,42.1,malariae,no,yes,no,no,yes,no,Negative
+35,Male,94.3,34.8,82.7,Lake Basin,189,malariae,no,no,no,no,no,no,Negative
+27,Male,70,22.6,80.7,Highland,10.2,malariae,no,no,no,yes,yes,no,Negative
+39,Male,241.5,20.9,75.4,Lake Basin,97.5,malariae,no,no,no,yes,no,no,Negative
+20,Female,228.1,35,46.1,Coastal,155.7,malariae,no,yes,no,no,no,no,Negative
+45,Female,81.5,25.8,70,Coastal,195.9,malariae,no,no,no,no,yes,no,Negative
+42,Female,186.1,28.3,83.6,Seasonal,24.4,malariae,yes,no,no,no,no,no,Negative
+16,Male,127.5,26.3,59.1,Lake Basin,168.5,malariae,yes,yes,no,no,no,no,Negative
+49,Male,206.3,33.1,50.7,Lake Basin,151.9,malariae,no,no,yes,no,no,no,Negative
+45,Female,253.5,29,85.5,Lake Basin,98.8,malariae,no,no,no,no,no,no,Negative
+30,Female,57.4,27.8,42.7,Coastal,135.8,malariae,no,no,no,yes,no,yes,Negative
+17,Female,283.5,34.7,59.6,Highland,27,malariae,no,no,no,no,no,no,Negative
+36,Female,293.4,33.2,44.5,Lake Basin,23.4,malariae,yes,no,yes,no,no,no,Negative
+16,Male,155.6,29.2,54.9,Lake Basin,129,malariae,no,no,yes,no,no,yes,Negative
+22,Male,299.9,23.3,68.1,Seasonal,64.1,malariae,no,no,no,no,yes,no,Negative
+43,Male,255,26.5,60.5,Highland,34.8,malariae,yes,no,no,no,no,no,Negative
+45,Female,51.1,20.4,68,Seasonal,37.7,malariae,yes,no,yes,yes,no,yes,Negative
+39,Female,200.3,22.8,55.8,Lake Basin,73.6,malariae,yes,no,no,no,no,no,Negative
+21,Male,218.3,24.6,81.2,Lake Basin,128.8,malariae,yes,no,no,no,no,no,Negative
+19,Male,70.8,31.6,31.5,Lake Basin,142.5,malariae,no,no,no,no,no,yes,Negative
+36,Female,202.3,20.1,80,Lake Basin,31.8,malariae,yes,no,no,no,no,no,Negative
+20,Male,173.6,30.8,46.2,Lake Basin,168.5,malariae,no,no,yes,no,no,no,Negative
+40,Female,122.3,27.8,51.5,Lake Basin,102,malariae,no,no,no,yes,no,no,Negative
+26,Female,232.9,20.6,77.7,Lake Basin,16.5,malariae,no,no,no,no,no,no,Negative
+22,Male,257.1,34.1,39.9,Lake Basin,64.4,malariae,no,yes,no,no,yes,no,Negative
+49,Female,64.7,26.8,54.5,Lake Basin,41.2,malariae,no,no,no,no,no,no,Negative
+30,Male,233.9,24.5,59.4,Coastal,44.6,malariae,no,no,no,no,no,no,Negative
+27,Male,56.5,31.4,63.3,Seasonal,146.9,malariae,no,no,no,no,yes,no,Negative
+33,Female,102.4,28.6,56.5,Seasonal,77.2,malariae,yes,no,yes,no,no,yes,Negative
+42,Male,208.2,22.1,45.6,Seasonal,198.8,malariae,no,no,yes,no,no,no,Negative
+25,Female,267.6,31.6,48.6,Seasonal,109.2,malariae,no,no,yes,yes,yes,no,Negative
+16,Female,54,30.9,58.2,Coastal,146.5,malariae,no,no,yes,no,no,yes,Negative
+47,Female,152.7,26,59.9,Highland,143.3,malariae,yes,no,no,no,no,yes,Negative
+15,Male,158.1,30.5,30.3,Lake Basin,85.2,malariae,no,yes,yes,yes,no,yes,Negative
+49,Female,80.8,30.6,34.2,Lake Basin,146.8,malariae,yes,yes,no,yes,yes,no,Negative
+23,Female,82,24.8,75.5,Lake Basin,44.5,malariae,no,yes,no,no,no,yes,Negative
+35,Male,73.8,30.1,88.1,Coastal,103.6,malariae,yes,yes,no,yes,no,no,Negative
+39,Female,297.1,20.4,89.5,Lake Basin,148.5,malariae,no,no,no,no,no,no,Negative
+40,Female,58.1,34.2,88.8,Highland,76.9,malariae,no,no,yes,yes,yes,no,Negative
+23,Male,85.6,32.1,62.3,Low risk,105.6,malariae,no,no,no,no,yes,no,Negative
+43,Male,125.8,27.2,60.1,Coastal,31.3,malariae,no,no,yes,no,yes,no,Negative
+32,Female,87.5,32,78.3,Coastal,56.1,malariae,no,yes,no,no,yes,no,Negative
+39,Male,258.8,31.1,59.4,Coastal,20.9,malariae,no,no,no,yes,no,no,Negative
+36,Male,175.4,22.2,46.8,Seasonal,82.2,malariae,no,no,yes,no,no,no,Negative
+22,Female,95.5,20.7,60.1,Coastal,131,malariae,no,no,no,no,no,no,Negative
+31,Male,298.4,26,73,Coastal,99.4,malariae,yes,no,yes,yes,no,no,Negative
+46,Female,215.4,30.5,32.2,Coastal,25.5,malariae,yes,yes,no,yes,no,no,Negative
+17,Female,69.4,32.1,78.6,Lake Basin,38.3,malariae,no,no,no,no,no,no,Negative
+49,Female,283.9,28.7,65.4,Coastal,13.5,malariae,no,no,no,no,no,no,Negative
+17,Male,223.4,33.4,75.7,Coastal,198.3,malariae,no,no,no,yes,no,no,Negative
+33,Male,168.8,27.1,84.4,Lake Basin,194.5,malariae,no,no,no,no,no,yes,Negative
+17,Female,133,28.7,47.7,Coastal,91.6,malariae,yes,yes,yes,yes,no,yes,Negative
+31,Male,225,30.7,66.2,Coastal,102.8,malariae,yes,yes,yes,yes,yes,yes,Positive
+41,Female,106,25.6,74.8,Seasonal,153,malariae,yes,no,no,yes,yes,yes,Negative
+15,Male,256,22.7,45.3,Highland,85.8,malariae,yes,no,no,no,yes,yes,Negative
+47,Male,141.3,31.3,75.3,Lake Basin,112.5,malariae,no,no,no,no,no,yes,Negative
+20,Male,294.9,25.3,56.4,Lake Basin,91.2,malariae,no,no,no,no,no,no,Negative
+36,Female,90.9,20.4,61.8,Coastal,196.5,malariae,no,yes,no,no,no,no,Negative
+40,Female,196.1,25.6,68.9,Highland,172.7,malariae,no,no,yes,yes,yes,no,Negative
+25,Male,137.4,23.4,69.8,Coastal,184.8,malariae,yes,no,no,no,no,no,Negative
+33,Male,107.2,26.4,51,Lake Basin,103.8,malariae,yes,no,no,no,no,no,Negative
+26,Male,198.5,20.5,64.4,Lake Basin,135,malariae,no,no,yes,no,yes,no,Negative
+44,Female,64.6,20.8,57.4,Coastal,192,malariae,no,no,no,no,no,no,Negative
+28,Male,184.1,24.4,54.5,Coastal,41.6,malariae,no,no,yes,no,yes,yes,Negative
+17,Male,51.2,25.6,58.7,Highland,134.4,malariae,no,no,no,no,yes,yes,Negative
+27,Female,287.7,30.1,76.5,Lake Basin,106.1,malariae,yes,yes,no,no,no,no,Negative
+46,Female,263.8,30.3,76.1,Lake Basin,163.9,malariae,no,yes,no,no,no,yes,Negative
+47,Female,244.6,23.1,33.1,Seasonal,44.6,malariae,no,no,no,no,no,no,Negative
+35,Male,58,23.8,64.1,Highland,94.5,malariae,no,yes,no,no,no,yes,Negative
+33,Male,126.3,29.2,49.8,Seasonal,58.3,malariae,no,no,yes,no,no,yes,Negative
+42,Male,66.8,30.2,43.9,Highland,45.2,malariae,no,no,no,no,yes,no,Negative
+44,Male,84.4,28.9,49.1,Seasonal,35.6,malariae,no,no,no,no,no,no,Negative
+26,Female,162.5,21.1,66.5,Seasonal,106.6,malariae,yes,no,no,no,no,no,Negative
+24,Female,266.8,34,49.4,Lake Basin,166.1,malariae,yes,no,no,no,yes,no,Negative
+34,Male,85.7,24,35.3,Lake Basin,58.9,malariae,yes,no,no,no,no,no,Negative
+29,Female,285.7,24.5,45.9,Lake Basin,164.9,malariae,no,yes,yes,yes,no,no,Negative
+25,Female,53.8,30.4,71.5,Coastal,153.6,malariae,no,no,yes,yes,no,no,Negative
+26,Male,90.3,30.9,76.2,Coastal,127.6,malariae,no,no,no,no,no,yes,Negative
+36,Male,279.7,23.7,47.7,Highland,88.9,malariae,yes,yes,no,yes,yes,yes,Positive
+35,Female,254.9,27.4,79.5,Coastal,26.2,malariae,no,no,yes,yes,no,no,Negative
+20,Female,289,24.1,65.6,Seasonal,140.5,malariae,no,no,no,no,no,no,Negative
+19,Female,262.2,24.3,76.3,Lake Basin,141.4,malariae,no,yes,yes,yes,no,yes,Negative
+20,Male,142.4,29.4,48.2,Lake Basin,126.9,malariae,no,no,no,no,yes,yes,Negative
+45,Male,114.1,26.4,38.1,Low risk,130,malariae,no,yes,yes,no,no,no,Negative
+16,Female,181.4,25.2,55.5,Coastal,55.4,malariae,yes,no,no,yes,no,no,Negative
+22,Male,76.8,21.4,57.4,Lake Basin,179.3,malariae,no,no,yes,no,no,yes,Negative
+18,Male,84.6,25.4,49,Lake Basin,148.6,malariae,no,no,yes,yes,yes,yes,Negative
+49,Male,286.8,20.2,42.3,Seasonal,21,malariae,no,yes,no,no,no,yes,Negative
+17,Female,267.2,30.6,89.8,Coastal,48.4,malariae,no,yes,no,no,no,no,Negative
+33,Female,260.3,34.3,72.3,Coastal,46.6,malariae,no,no,yes,yes,no,no,Negative
+36,Male,155.5,29.8,76.1,Lake Basin,121.6,malariae,no,no,yes,yes,no,yes,Negative
+47,Male,259.5,20.2,37,Lake Basin,121,malariae,yes,no,yes,no,no,no,Negative
+49,Male,212.2,34.8,53.4,Seasonal,109.2,malariae,yes,no,no,no,no,yes,Negative
+46,Female,292.3,32.2,59.6,Highland,74.7,malariae,no,no,no,yes,yes,no,Negative
+33,Male,153.3,28.3,37.8,Seasonal,66.7,malariae,no,no,yes,no,yes,no,Negative
+46,Female,140.1,31.9,35.8,Lake Basin,88.9,malariae,no,no,no,no,no,no,Negative
+32,Male,131.7,25.4,57.6,Lake Basin,155.6,malariae,no,no,no,no,no,yes,Negative
+49,Female,200.9,31.2,76,Lake Basin,18.5,malariae,yes,yes,yes,yes,no,yes,Negative
+37,Female,299,24.2,61.5,Highland,31.4,malariae,no,yes,no,yes,yes,no,Negative
+21,Female,254.2,20.9,39.7,Coastal,162,malariae,no,no,no,no,yes,no,Negative
+16,Male,86.4,31,49.8,Seasonal,41.5,malariae,no,no,no,no,no,no,Negative
+38,Female,81.2,24.3,78.4,Lake Basin,148.9,malariae,no,no,no,no,no,no,Negative
+31,Female,62.2,22.5,49.2,Highland,63.2,malariae,yes,yes,no,yes,yes,no,Negative
+42,Female,260.4,31.1,35.3,Lake Basin,18,malariae,yes,yes,no,yes,no,no,Negative
+39,Female,138,31.4,84.1,Low risk,26.7,malariae,yes,no,yes,no,no,no,Negative
+22,Male,204.5,24.7,76.2,Lake Basin,167.1,malariae,yes,no,yes,no,no,no,Negative
+24,Male,95.2,28.6,32.2,Lake Basin,43.4,malariae,no,no,no,yes,no,no,Negative
+24,Female,216.1,27.1,87.5,Seasonal,111.9,malariae,no,yes,no,no,yes,yes,Negative
+37,Female,170.7,24.6,77.1,Coastal,149.2,malariae,no,no,yes,no,no,no,Negative
+20,Female,262,23.1,70.1,Coastal,101.2,malariae,yes,yes,yes,no,yes,no,Negative
+26,Female,90,30.4,50.9,Coastal,138.9,malariae,no,no,yes,yes,no,yes,Negative
+49,Female,235,34.4,85.9,Lake Basin,97,malariae,yes,no,no,no,no,no,Negative
+41,Male,262.9,28.2,70.4,Lake Basin,121.5,malariae,yes,no,no,no,no,no,Negative
+49,Female,56.2,34.7,69.6,Coastal,104.2,malariae,no,no,yes,no,yes,yes,Negative
+28,Female,110.6,25.8,78,Highland,23.6,malariae,no,no,yes,no,no,no,Negative
+23,Male,98.5,20.2,88.1,Coastal,67,malariae,no,no,no,yes,yes,yes,Negative
+33,Male,288.6,25.3,57.8,Lake Basin,149,malariae,no,no,no,no,no,no,Negative
+30,Female,273.7,30.1,83.9,Highland,177,malariae,no,no,no,yes,no,yes,Negative
+32,Female,245.6,23.8,46.6,Seasonal,33.5,malariae,no,yes,no,no,no,no,Negative
+37,Female,276.7,21.2,56.5,Lake Basin,121.4,malariae,no,no,no,no,yes,no,Negative
+37,Male,205.2,22.2,54.9,Lake Basin,70.9,malariae,no,no,no,yes,no,no,Negative
+38,Male,195.5,20.2,87.5,Lake Basin,39.8,malariae,no,yes,no,no,yes,no,Negative
+18,Male,150.9,33.8,46.1,Lake Basin,167.7,malariae,no,yes,yes,yes,no,no,Negative
+25,Male,282.5,31.6,48.6,Lake Basin,187.6,malariae,no,yes,yes,no,yes,no,Negative
+17,Female,263.8,28.1,49.7,Seasonal,20.5,malariae,no,no,yes,no,yes,yes,Negative
+28,Male,194.2,31,77.6,Highland,132.1,malariae,no,no,no,no,no,no,Negative
+26,Male,71.9,22.1,42.6,Lake Basin,10.4,malariae,no,no,no,no,no,yes,Negative
+46,Male,221.3,22.8,74.5,Lake Basin,72.3,malariae,no,yes,yes,no,yes,no,Negative
+29,Male,149.9,30.4,58.6,Coastal,98,malariae,yes,no,no,yes,no,no,Negative
+25,Female,93.9,28.1,88.1,Coastal,108.8,malariae,no,no,no,no,no,yes,Negative
+25,Female,251.8,27.8,68.3,Coastal,88.3,malariae,no,yes,yes,no,no,no,Negative
+26,Female,70,20.5,64.6,Highland,118.8,malariae,no,no,yes,no,yes,yes,Negative
+39,Female,266.3,25.1,71.3,Seasonal,19.9,malariae,yes,yes,no,no,no,no,Negative
+49,Female,173.2,29.8,61.7,Lake Basin,80,malariae,no,no,no,no,no,yes,Negative
+34,Female,254.3,24.3,86.7,Coastal,187.8,malariae,no,no,no,no,no,yes,Negative
+33,Female,124.1,25.2,81.4,Lake Basin,89.1,malariae,no,no,no,yes,no,no,Negative
+19,Male,174.4,25.3,87.5,Lake Basin,174.4,malariae,no,no,no,no,no,no,Negative
+16,Male,131.4,22.2,89.1,Lake Basin,115.9,malariae,no,no,no,no,yes,yes,Negative
+15,Female,205.3,29.5,81,Lake Basin,66.6,malariae,no,yes,no,no,no,no,Negative
+49,Female,189,31.2,54.8,Seasonal,23.6,malariae,no,no,no,no,no,no,Negative
+44,Female,267.2,28.5,76.8,Low risk,136.6,malariae,no,no,no,no,no,yes,Negative
+44,Male,202.5,31.1,82.2,Coastal,177,malariae,no,no,no,yes,yes,no,Negative
+17,Female,134.9,32.8,38.1,Coastal,172.5,malariae,no,yes,no,yes,yes,no,Negative
+23,Female,87.6,24.7,62.2,Highland,58.7,malariae,yes,no,yes,yes,yes,no,Negative
+37,Female,74.3,29.8,34.9,Coastal,104,malariae,no,no,no,no,yes,no,Negative
+31,Female,178.4,21.7,66.1,Coastal,120.4,malariae,yes,no,no,yes,no,yes,Negative
+19,Male,71.1,28.3,32,Highland,157.8,malariae,yes,no,no,no,no,no,Negative
+23,Male,196.2,28,76,Highland,87.8,malariae,no,no,yes,no,yes,no,Negative
+22,Male,64.9,31.1,73.8,Lake Basin,83.8,malariae,no,no,yes,no,yes,yes,Negative
+47,Female,205,34.9,37.7,Lake Basin,106.9,malariae,yes,no,no,no,no,no,Negative
+38,Female,226.4,23.6,81.8,Highland,133,malariae,no,yes,yes,no,no,no,Negative
+33,Male,216.9,33.7,75,Lake Basin,91.9,malariae,no,no,yes,yes,yes,yes,Negative
+42,Male,86.7,28.8,76.7,Lake Basin,20.8,malariae,no,no,no,no,yes,yes,Negative
+43,Female,149,30.5,35.8,Lake Basin,158,malariae,no,no,no,yes,no,no,Negative
+48,Female,134.6,26.5,57.1,Lake Basin,158.9,malariae,no,yes,no,no,no,no,Negative
+27,Female,195.8,25.8,88.5,Lake Basin,147.4,malariae,no,no,no,no,no,no,Negative
+23,Female,57.5,29.2,88,Seasonal,144.9,malariae,no,no,no,yes,yes,no,Negative
+19,Female,170.9,24.3,53.5,Low risk,195.4,malariae,yes,no,yes,no,no,no,Negative
+34,Male,111.6,33,38.6,Coastal,38.9,malariae,yes,no,no,no,yes,no,Negative
+16,Female,276.9,30.8,68.8,Lake Basin,73.6,malariae,no,no,no,yes,no,no,Negative
+20,Female,249,27.2,44,Lake Basin,41.3,malariae,no,yes,no,no,yes,no,Negative
+26,Male,57.7,29,37.2,Seasonal,81.6,malariae,no,no,yes,yes,no,yes,Negative
+43,Female,87.9,26.1,68.5,Low risk,188.4,malariae,yes,yes,no,no,yes,no,Negative
+33,Male,282.3,32.6,79.3,Highland,151.1,malariae,no,no,no,yes,no,yes,Negative
+44,Female,112.7,30.6,84.4,Low risk,192,malariae,no,yes,yes,no,no,no,Negative
+19,Female,112.6,26.5,39.5,Lake Basin,134.9,malariae,no,no,no,yes,yes,no,Negative
+48,Male,149.8,31.6,78.1,Lake Basin,50.3,malariae,no,yes,no,yes,yes,no,Negative
+48,Female,84.3,22.2,38.1,Highland,83.5,malariae,no,no,yes,yes,no,yes,Negative
+21,Male,133.3,27.5,39,Coastal,197.6,malariae,no,yes,no,no,no,no,Negative
+44,Male,136,24.7,32.7,Lake Basin,31.1,malariae,no,yes,no,no,no,yes,Negative
+30,Male,64.1,28.9,46.9,Coastal,198.9,malariae,no,no,yes,no,no,no,Negative
+24,Female,247.8,30.4,79.4,Lake Basin,20.7,malariae,no,yes,no,yes,no,no,Negative
+16,Female,59,21.9,33,Highland,17,malariae,no,no,no,no,yes,no,Negative
+25,Male,215.2,22.7,65.8,Seasonal,192.1,malariae,no,no,yes,yes,yes,yes,Negative
+43,Female,158.8,24.8,74.4,Seasonal,193.7,malariae,no,no,no,no,no,no,Negative
+25,Male,157.1,34.2,38.5,Lake Basin,166.4,malariae,yes,no,yes,no,yes,no,Negative
+19,Female,265.4,30.6,60.7,Coastal,117.2,malariae,no,no,yes,no,no,no,Negative
+40,Male,219.2,34.2,61.5,Lake Basin,80.8,malariae,no,no,yes,no,no,no,Negative
+32,Male,96.9,20.2,63.1,Seasonal,63.5,malariae,no,no,no,yes,no,no,Negative
+32,Male,70.1,34.2,41.7,Coastal,79.9,malariae,yes,no,no,no,yes,no,Negative
+45,Female,116.9,23.9,64.2,Seasonal,149.1,malariae,no,yes,no,no,yes,no,Negative
+49,Male,169.7,33,74.8,Lake Basin,183.9,malariae,no,no,no,yes,yes,no,Negative
+43,Female,124.8,26.3,30.3,Seasonal,173.7,malariae,yes,no,yes,yes,yes,no,Negative
+26,Female,293.9,27.2,50.4,Lake Basin,149.5,malariae,no,yes,yes,no,no,no,Negative
+38,Male,280.8,20.2,37.8,Lake Basin,92,malariae,yes,no,yes,no,no,yes,Negative
+38,Female,288.3,24.8,54.5,Coastal,11.6,malariae,yes,no,yes,no,no,yes,Negative
+18,Female,169.5,22.2,48.3,Lake Basin,37.4,malariae,no,no,no,yes,yes,no,Negative
+45,Female,155.5,26.5,68.5,Lake Basin,95.8,malariae,no,no,no,yes,no,no,Negative
+26,Female,174.7,34.3,42.8,Coastal,15.4,malariae,no,yes,no,no,no,no,Negative
+43,Female,183.9,33.8,45.5,Highland,26.3,malariae,no,yes,no,yes,no,no,Negative
+19,Female,293.4,32.7,60.6,Lake Basin,103.2,malariae,no,no,no,no,yes,no,Negative
+30,Male,227.3,25.1,68.1,Highland,78.4,malariae,yes,yes,yes,yes,yes,yes,Positive
+39,Female,155.9,34.8,31.3,Lake Basin,43.3,malariae,no,no,no,yes,no,no,Negative
+29,Female,129.3,20.7,66.1,Coastal,180,malariae,no,no,yes,no,no,no,Negative
+21,Female,172,32.7,76,Lake Basin,81.4,malariae,yes,no,yes,yes,no,no,Negative
+42,Male,236.5,33.8,49.4,Low risk,50.1,malariae,no,no,no,no,no,no,Negative
+44,Male,287.9,23.6,43.2,Lake Basin,83,malariae,yes,no,yes,yes,no,yes,Negative
+24,Male,280.2,30.3,83.7,Lake Basin,147.5,malariae,yes,no,yes,no,no,no,Negative
+16,Female,115.5,20.7,35.9,Seasonal,27.4,malariae,no,no,yes,yes,yes,no,Negative
+39,Female,99,21.2,69,Lake Basin,19.3,malariae,yes,no,yes,yes,yes,yes,Negative
+20,Female,229.9,21,83.3,Coastal,130.4,malariae,yes,no,no,yes,no,no,Negative
+38,Male,119.6,28.2,86,Coastal,59.2,malariae,no,no,no,no,no,no,Negative
+15,Female,167.2,32.8,48.8,Highland,118.9,malariae,no,no,no,no,yes,no,Negative
+47,Male,90.4,20,72.8,Seasonal,187.4,malariae,yes,no,yes,no,no,yes,Negative
+30,Female,144,28.3,80,Coastal,182.2,malariae,no,yes,yes,yes,no,yes,Negative
+25,Female,226.1,29.2,81.5,Seasonal,94.3,malariae,yes,yes,no,yes,no,yes,Negative
+38,Female,178.2,31.6,60.7,Seasonal,99.5,malariae,no,yes,yes,no,yes,no,Negative
+18,Male,220.1,27.2,46.9,Lake Basin,86.8,malariae,no,no,yes,no,yes,no,Negative
+27,Male,85.5,34.6,76.7,Coastal,186.1,malariae,yes,no,no,no,yes,yes,Negative
+30,Female,247.4,23,77.5,Lake Basin,150.8,malariae,yes,yes,no,yes,no,no,Negative
+22,Male,169.3,27.7,34.6,Seasonal,156.9,malariae,no,no,yes,no,yes,no,Negative
+24,Male,59.7,33,52.4,Seasonal,95,malariae,yes,yes,no,no,yes,yes,Negative
+22,Female,189.9,28.9,48.4,Lake Basin,102.2,malariae,no,no,yes,yes,no,no,Negative
+33,Male,174.3,31,88.4,Lake Basin,117.1,malariae,no,no,no,no,yes,no,Negative
+42,Female,208.4,29.2,64.1,Coastal,60.3,malariae,no,yes,no,no,no,no,Negative
+45,Female,232.6,27.4,72.2,Coastal,189.2,ovale,no,no,no,yes,no,no,Negative
+45,Female,128.2,31.2,31.4,Lake Basin,186,ovale,no,no,no,yes,no,yes,Negative
+41,Female,154,21.3,75.1,Low risk,58.7,ovale,no,yes,yes,no,yes,no,Negative
+29,Male,107.1,24.4,56.4,Low risk,178.8,ovale,no,no,no,no,no,no,Negative
+17,Female,246.3,22.4,42.4,Coastal,88.9,ovale,no,no,no,yes,no,yes,Negative
+41,Female,132.3,21.9,80.5,Seasonal,152.2,ovale,no,yes,no,no,yes,no,Negative
+31,Male,219.4,29,35.4,Coastal,107.7,ovale,no,no,no,no,no,no,Negative
+30,Male,163.3,23.6,77.1,Coastal,74.7,ovale,no,no,no,yes,no,yes,Negative
+17,Female,259.7,25.1,32.6,Coastal,10.7,ovale,yes,no,yes,no,no,no,Negative
+36,Male,190.6,24.6,83.5,Coastal,45.7,ovale,no,yes,no,no,yes,yes,Negative
+26,Female,162.4,22.3,58,Lake Basin,180.9,ovale,no,no,yes,no,yes,yes,Negative
+24,Female,77.4,32.5,36.2,Lake Basin,70.8,ovale,yes,no,yes,yes,no,no,Negative
+44,Male,297.7,30,37.7,Lake Basin,26.9,ovale,no,no,no,yes,no,yes,Negative
+47,Male,218.4,23.9,64.1,Coastal,55.8,ovale,no,yes,no,no,no,no,Negative
+17,Male,179.2,31,51.2,Lake Basin,37.4,ovale,yes,no,no,yes,yes,no,Negative
+49,Male,234.4,33.3,67.2,Seasonal,170.3,ovale,no,yes,no,no,no,no,Negative
+39,Female,253.9,29.4,30.3,Lake Basin,180.4,ovale,no,no,yes,no,no,no,Negative
+38,Male,70.2,30.2,58.8,Coastal,101,ovale,yes,no,no,no,no,yes,Negative
+22,Female,120.9,27.2,49.1,Seasonal,113.3,ovale,no,no,no,yes,yes,no,Negative
+47,Male,72.6,32.9,87.4,Coastal,132.4,ovale,no,yes,yes,no,no,yes,Negative
+16,Female,220.8,33.7,87.9,Coastal,166,ovale,yes,no,yes,no,no,no,Negative
+47,Male,127.4,35,82.8,Coastal,19.8,ovale,no,no,yes,no,no,no,Negative
+44,Male,147.8,21.8,66.8,Coastal,155.3,ovale,no,no,no,no,no,yes,Negative
+38,Female,56.7,20.8,50.1,Lake Basin,26.3,ovale,no,no,yes,no,no,no,Negative
+17,Male,66.9,26.1,64.8,Lake Basin,179.7,ovale,yes,no,yes,no,no,no,Negative
+22,Female,232.2,33.4,83.6,Low risk,138.5,ovale,no,no,no,no,no,no,Negative
+24,Male,132.6,27.5,53.5,Lake Basin,16.2,ovale,no,no,yes,no,no,yes,Negative
+42,Female,285.1,30,88.1,Seasonal,137.4,ovale,no,no,no,yes,no,no,Negative
+47,Male,93,28.7,43.9,Coastal,127.8,ovale,no,yes,no,no,no,yes,Negative
+35,Male,286.9,26.7,85.8,Seasonal,136,ovale,yes,no,no,yes,yes,no,Negative
+31,Male,220.4,24.5,36.2,Coastal,147.3,ovale,no,yes,no,yes,no,yes,Negative
+27,Male,147.8,20.3,76.2,Lake Basin,44.7,ovale,yes,no,yes,no,no,yes,Negative
+22,Male,107.4,21.4,36.3,Lake Basin,65.8,ovale,no,no,no,no,yes,no,Negative
+25,Female,284.1,32.2,62.6,Low risk,140.6,ovale,no,yes,yes,no,no,yes,Negative
+28,Female,292.5,25.6,83.4,Lake Basin,22.4,ovale,no,yes,no,no,no,no,Negative
+21,Male,157.9,30.3,55.1,Coastal,91.6,ovale,yes,no,yes,yes,no,yes,Negative
+42,Female,101.4,30.1,68.7,Lake Basin,73.8,ovale,no,no,no,no,no,yes,Negative
+19,Male,217.7,25.2,53.8,Highland,191.7,ovale,no,no,no,no,yes,no,Negative
+24,Male,61.4,32.4,71.3,Coastal,97,ovale,no,yes,no,yes,yes,no,Negative
+45,Male,78.1,20.9,45.2,Seasonal,97.7,ovale,yes,yes,no,no,yes,no,Negative
+24,Female,289.1,22.8,60.3,Lake Basin,128.4,ovale,no,no,no,no,no,no,Negative
+38,Female,94,24.6,53,Lake Basin,152.2,ovale,no,yes,no,yes,no,no,Negative
+30,Male,293.1,29.8,33.6,Lake Basin,96.3,ovale,no,no,no,yes,no,no,Negative
+31,Male,119.4,25.5,60.2,Lake Basin,26.5,ovale,yes,no,no,no,no,yes,Negative
+45,Male,163.8,31.7,84.9,Low risk,195.1,ovale,yes,no,yes,no,no,no,Negative
+30,Male,126.8,25.8,70.8,Lake Basin,40.8,ovale,no,no,yes,yes,no,yes,Negative
+43,Male,242.5,27.5,40.7,Seasonal,55.1,ovale,no,yes,yes,no,yes,no,Negative
+22,Male,141.2,21.6,63.4,Seasonal,71.6,ovale,no,no,yes,yes,no,no,Negative
+16,Female,168,33.1,76.9,Lake Basin,43.3,ovale,no,yes,no,no,no,no,Negative
+25,Female,81.7,30.7,66.2,Seasonal,24.5,ovale,yes,no,yes,no,no,yes,Negative
+35,Male,66.6,31,45.2,Lake Basin,74.3,ovale,yes,no,no,no,no,yes,Negative
+34,Female,217.6,24.1,60.3,Low risk,31.9,ovale,no,yes,yes,no,no,no,Negative
+31,Female,158.3,31.2,70.7,Lake Basin,115.5,ovale,no,no,no,no,no,no,Negative
+21,Female,89.5,23.6,34.6,Low risk,93,ovale,yes,no,yes,no,no,yes,Negative
+37,Male,182.9,34.1,40.7,Coastal,16.3,ovale,yes,yes,no,no,no,no,Negative
+30,Male,142.8,22.5,46.2,Lake Basin,106,ovale,no,no,yes,yes,no,no,Negative
+39,Female,217.7,31.6,30.1,Seasonal,116.6,ovale,yes,yes,yes,yes,yes,yes,Positive
+49,Female,67.7,26.6,42.9,Seasonal,45.2,ovale,no,no,no,yes,no,no,Negative
+37,Female,84.3,21.5,38.1,Lake Basin,35.2,ovale,no,no,yes,yes,no,no,Negative
+31,Female,126.2,23.2,59.7,Coastal,195.6,ovale,no,no,no,no,no,yes,Negative
+49,Male,236.4,25.5,39.4,Lake Basin,144,ovale,no,no,yes,no,no,no,Negative
+17,Female,265.6,28,79.8,Seasonal,70.8,ovale,no,yes,no,no,no,no,Negative
+41,Female,53.1,31.6,34.5,Highland,123.9,ovale,no,yes,yes,yes,no,no,Negative
+29,Female,131.2,31.8,36.9,Highland,122.4,ovale,yes,yes,no,yes,no,no,Negative
+32,Male,229.2,30.2,87.4,Low risk,174.8,ovale,yes,yes,yes,yes,yes,yes,Positive
+15,Female,192,26.1,38.1,Low risk,164.8,ovale,yes,no,no,yes,yes,no,Negative
+23,Female,74.9,29.3,42.5,Lake Basin,99.2,ovale,no,no,no,yes,no,no,Negative
+49,Male,160.2,33.5,82.9,Coastal,125.7,ovale,no,yes,yes,yes,yes,no,Positive
+29,Male,244.7,32.7,74.4,Coastal,125.7,ovale,yes,no,yes,no,yes,yes,Negative
+40,Male,237,23.2,75.2,Coastal,103.8,ovale,no,no,no,no,yes,yes,Negative
+27,Male,227.9,30.3,31.8,Lake Basin,53.8,ovale,no,no,no,no,no,no,Negative
+42,Male,291.6,33.4,34.9,Coastal,42.8,ovale,no,no,no,yes,no,no,Negative
+48,Male,257.4,22.2,61.3,Coastal,113.3,ovale,no,yes,no,yes,no,no,Negative
+37,Male,249.2,24.5,42.3,Seasonal,57.3,ovale,no,yes,no,no,no,yes,Negative
+36,Male,262.7,32.9,45.8,Lake Basin,23.4,ovale,yes,no,no,yes,yes,yes,Positive
+26,Female,203.8,20.9,54.5,Seasonal,174,ovale,no,no,yes,no,no,no,Negative
+28,Male,290.4,22.8,49.4,Lake Basin,197,ovale,no,yes,no,no,no,no,Negative
+39,Female,115.1,27.6,58.9,Lake Basin,93.9,ovale,yes,no,yes,no,no,yes,Negative
+25,Male,290.2,22.1,51.3,Lake Basin,194.2,ovale,no,no,no,no,no,yes,Negative
+39,Female,74.7,28.7,67.5,Lake Basin,154.1,ovale,no,no,no,no,no,yes,Negative
+29,Male,145.7,22.7,65.9,Coastal,114.8,ovale,no,no,no,no,no,no,Negative
+42,Male,154.2,25.9,55.6,Lake Basin,119,ovale,no,yes,no,no,no,no,Negative
+47,Male,195.5,23.1,49.4,Lake Basin,13.8,ovale,no,no,no,no,no,yes,Negative
+24,Female,206.2,28.8,70.9,Coastal,195.4,ovale,no,no,no,no,no,yes,Negative
+18,Female,228.5,26.5,65.4,Coastal,182.6,ovale,no,no,no,no,yes,yes,Negative
+43,Female,139.2,31,56.8,Lake Basin,116.5,ovale,no,yes,no,no,no,no,Negative
+39,Female,169.8,23.6,34.9,Coastal,128.7,ovale,yes,no,no,yes,no,no,Negative
+20,Female,83.2,30.9,42.7,Low risk,17.6,ovale,no,no,no,no,no,no,Negative
+21,Female,98.1,21.7,74.6,Coastal,42.9,ovale,no,no,yes,yes,no,no,Negative
+20,Male,73.2,30,42.4,Seasonal,178.2,ovale,no,no,no,yes,yes,no,Negative
+24,Female,167,21.1,41.8,Coastal,53.8,ovale,yes,no,yes,no,yes,no,Negative
+16,Male,162.9,30.3,77.9,Lake Basin,136.4,ovale,no,yes,no,yes,no,no,Negative
+31,Female,254.2,21.1,54.8,Highland,132.8,ovale,no,no,no,no,no,no,Negative
+34,Female,156.1,31,48.8,Lake Basin,198.2,ovale,no,no,no,yes,no,no,Negative
+28,Female,293.3,34.4,37.2,Coastal,35.5,ovale,no,no,no,no,yes,yes,Negative
+34,Male,133.2,30.2,50.6,Coastal,143.1,ovale,no,no,no,no,no,no,Negative
+25,Male,278.6,29.7,54.7,Lake Basin,191.8,ovale,no,yes,yes,yes,yes,yes,Positive
+29,Female,242.7,31,31.5,Lake Basin,102.6,ovale,yes,no,no,no,no,no,Negative
+30,Female,151.9,33.8,82.3,Lake Basin,22.1,ovale,no,no,no,yes,no,yes,Negative
+44,Female,220.7,22.6,46.7,Coastal,15.5,ovale,no,no,no,no,no,yes,Negative
+32,Male,216.1,21.5,54,Highland,158.7,ovale,yes,no,no,no,no,no,Negative
+38,Female,183.7,28.5,50.6,Lake Basin,54.1,ovale,no,yes,yes,yes,no,yes,Negative
+44,Female,171.3,32.4,53.8,Coastal,181,ovale,no,no,no,no,yes,no,Negative
+39,Male,121,33.4,54.6,Coastal,67,ovale,no,no,yes,no,yes,no,Negative
+31,Female,290.2,32.2,49.6,Coastal,137.3,ovale,no,no,yes,no,yes,no,Negative
+37,Male,150.6,26.5,86.9,Highland,141.2,ovale,no,yes,yes,no,no,no,Negative
+45,Male,234.5,32.8,71.3,Seasonal,172.7,ovale,no,no,yes,no,no,no,Negative
+23,Male,207.5,26.3,70.3,Coastal,180,ovale,no,no,no,no,yes,yes,Negative
+47,Male,180.4,24.6,53.7,Lake Basin,65.5,ovale,yes,no,no,no,yes,no,Negative
+19,Male,273.9,29.9,88.2,Coastal,50.2,ovale,no,no,yes,no,no,yes,Negative
+20,Male,61.7,34.6,41.8,Coastal,108.7,ovale,no,no,no,yes,no,yes,Negative
+24,Female,278.6,27.7,82,Lake Basin,165,ovale,no,yes,yes,yes,yes,no,Negative
+35,Female,80,29.5,39.9,Coastal,78.1,ovale,no,no,no,yes,no,yes,Negative
+20,Male,158.2,26.9,61.7,Lake Basin,85.4,ovale,yes,yes,no,yes,no,no,Negative
+16,Female,243.6,31.4,59.9,Lake Basin,151.8,ovale,no,no,no,no,yes,yes,Negative
+20,Female,176.1,28.6,47.4,Coastal,93.3,ovale,yes,no,no,no,no,no,Negative
+24,Male,185.7,22.5,41.8,Highland,78,ovale,yes,no,no,no,yes,yes,Negative
+42,Male,288.3,28.7,68.3,Coastal,190.3,ovale,no,yes,no,no,yes,no,Negative
+36,Female,171.5,34.9,49,Low risk,174.1,ovale,yes,no,no,yes,no,yes,Negative
+36,Male,170.7,23.3,38,Coastal,22.4,ovale,no,yes,yes,no,no,no,Negative
+36,Female,128.3,21.9,85.8,Coastal,184.4,ovale,yes,no,no,no,yes,no,Negative
+44,Female,270.6,28.5,69.1,Seasonal,193,ovale,yes,no,no,yes,no,yes,Negative
+29,Female,200.2,20.6,61,Coastal,12.3,ovale,yes,no,yes,yes,no,no,Negative
+30,Male,106,28.1,68.3,Lake Basin,23.4,ovale,no,no,no,no,yes,no,Negative
+24,Male,150.9,34,77,Coastal,121,ovale,no,no,no,no,no,no,Negative
+43,Male,221,25.8,56,Coastal,167.1,ovale,no,yes,no,yes,no,yes,Negative
+23,Female,227.6,26.2,72.5,Lake Basin,117.2,ovale,no,no,no,no,no,no,Negative
+22,Female,65.3,27.5,63.8,Lake Basin,94.4,ovale,no,no,no,yes,yes,no,Negative
+47,Male,120.1,34.2,31.2,Seasonal,140.5,ovale,no,yes,no,yes,no,yes,Negative
+37,Female,160.6,29.1,32.7,Coastal,171.3,ovale,no,yes,yes,no,no,no,Negative
+17,Female,151.4,20.3,51.7,Seasonal,165.9,ovale,no,yes,no,no,yes,yes,Negative
+40,Male,104.4,34.9,61.7,Lake Basin,47.2,ovale,no,yes,yes,no,no,yes,Negative
+21,Male,174.6,26.3,77.4,Highland,141.3,ovale,no,yes,yes,no,yes,no,Negative
+15,Male,123,22.8,71.4,Coastal,116.2,ovale,no,no,no,no,no,yes,Negative
+42,Male,121.5,34.2,46.4,Lake Basin,121.7,ovale,yes,yes,no,no,yes,no,Negative
+34,Female,91.7,26.2,82.7,Low risk,79.7,ovale,no,yes,no,no,no,no,Negative
+47,Female,136.9,28.3,66.3,Coastal,117.8,ovale,no,yes,yes,no,no,no,Negative
+44,Female,181.9,24.1,72.1,Coastal,180.7,ovale,no,yes,no,no,no,no,Negative
+45,Female,103.9,27.7,34.6,Lake Basin,116.7,ovale,yes,yes,yes,yes,yes,yes,Positive
+19,Female,187.1,30.7,45.4,Coastal,73.1,ovale,yes,no,no,no,no,yes,Negative
+29,Female,219.4,25.2,81.6,Low risk,138,ovale,no,no,no,no,yes,yes,Negative
+22,Male,259,22.5,44.6,Low risk,78.6,ovale,no,yes,yes,no,no,no,Negative
+18,Female,167.1,24.1,75.2,Seasonal,107.7,ovale,yes,yes,no,yes,no,no,Negative
+36,Female,91.5,25.4,77.8,Lake Basin,156.5,ovale,no,yes,no,no,no,no,Negative
+45,Male,229.6,30.4,31.9,Highland,53.9,ovale,yes,no,yes,no,yes,yes,Positive
+24,Male,140.7,31.8,66.6,Lake Basin,66.3,ovale,no,yes,no,no,yes,no,Negative
+35,Male,173.9,30.5,86.7,Lake Basin,59.5,ovale,yes,no,no,no,no,no,Negative
+37,Female,69.5,33.9,47.7,Low risk,38.5,ovale,no,yes,no,no,no,no,Negative
